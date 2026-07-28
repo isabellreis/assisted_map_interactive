@@ -1,0 +1,1856 @@
+[
+  {
+    "id": "life-after-by-reid-davenport",
+    "title": "'Life After' by Reid Davenport",
+    "creator": "Reid Davenport (director)",
+    "description": "In this documentary, American filmmaker Reid Davenport tells the story of Elizabeth Bouvia who wanted a legal assisted death in the 1980s in California. Through this case and more recent ones, he shows how decisions around assisted death are complicated for people with disabilities by ableism and a lack of access to care, contributing to ongoing debates about expanding access to assisted death.",
+    "type": "visual",
+    "year": 2025,
+    "status_context": null,
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_life-after-by-reid-davenport/life-after-bouvia-legal-team.png",
+    "url": "https://assistedlab.ch/visual/life-after-by-reid-davenport"
+  },
+  {
+    "id": "better-off-dead",
+    "title": "'Better Off Dead?' by Liz Carr and James Routh",
+    "creator": "Liz Carr (writer/presenter), James Routh (director)",
+    "description": "This BBC documentary follows actor and disability campaigner Liz Carr as she explores reasons why assisted dying, which she calls assisted suicide, should not be legalised in the UK. It is unusual both for constituting a mainstream programme that openly opposes legalisation of assisted dying, and for doing so using humour.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom",
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_better-off-dead/lizcarr.jpg",
+    "url": "https://assistedlab.ch/visual/better-off-dead"
+  },
+  {
+    "id": "bhangaar-obsolete-by-sumira-roy",
+    "title": "'Bhangaar | Obsolete' by Sumira Roy",
+    "creator": "Sumira Roy (Director)",
+    "description": "This quiet documentary displays the daily lives and material reality of octogenarian couple Narayan and Iravati Lavate who rose to prominence in 2018 for their plea to die by state-sanctioned euthanasia despite being physically and mentally healthy. The film humanizes Narayan and Iravati, showing the legal, societal and ethical resistance to their desire to “die with dignity.”",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "India"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_bhangaar-obsolete-by-sumira-roy/29-sept-2023_film-still-couple-_balcony.png",
+    "url": "https://assistedlab.ch/visual/bhangaar-obsolete-by-sumira-roy"
+  },
+  {
+    "id": "del-otro-lado-del-jardin-by-daniel-posada",
+    "title": "'Del otro lado del jardín' by Daniel Posada",
+    "creator": "Daniel Posada (director and screenwriter), Ignacio del Moral (screenwriter)",
+    "description": "The poet Carlos Framb wakes in a hospital bed, handcuffed and accused of homicide. He had attempted suicide after assisting his mother Luzmila Alzate to die, which he claims was an act of love. Inspired by Framb’s 2009 memoir by the same title, but with notable differences, this 2024 film turns a real story into a courtroom drama about the individual rights to death and to abortion.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Colombia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_del-otro-lado-del-jardin-by-daniel-posada/aria-ai-20250129.jpg",
+    "url": "https://assistedlab.ch/visual/del-otro-lado-del-jardin-by-daniel-posada"
+  },
+  {
+    "id": "deseenme-un-buen-viaje",
+    "title": "'Deséenme un buen viaje' by Gina Montaner",
+    "creator": "Gina  Montaner",
+    "description": "About to turn 79 and suffering from what seemed to be Parkinson’s, the Cuban-Spanish writer Carlos Alberto Montaner asked his daughter to help him seek an assisted death. In this memoir, Gina Montaner recounts how her father, as a political exile, fought for democratization in Cuba and, as a naturalized citizen, for the right to access legal euthanasia in Spain.",
+    "type": "textual",
+    "year": 2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Spain"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_deseenme-un-buen-viaje/montaner-gina_carlos-madrid_80s.jpeg",
+    "url": "https://assistedlab.ch/textual/deseenme-un-buen-viaje"
+  },
+  {
+    "id": "intervals",
+    "title": "'Intervals' by Marianne Brooker",
+    "creator": "Marianne Brooker",
+    "description": "Having lived with a progressive form of multiple sclerosis for ten years, Marianne Brooker’s mother voluntarily stopped eating and drinking, a legal approximation of assisted dying in the UK. Brooker’s long-form essay about her mother’s decision and her own experience caring for her at the end positions Brooker’s demand for assisted dying options within wider issues of social justice.",
+    "type": "textual",
+    "year": 2024,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_intervals/intervals-front-cover.jpg",
+    "url": "https://assistedlab.ch/textual/intervals"
+  },
+  {
+    "id": "sonhar-com-leoes",
+    "title": "'Sonhar com Leões' by Paolo Marinou-Blanco",
+    "creator": "Paolo Marinou-Blanco (director)",
+    "description": "Gilda, a Brazilian immigrant in Portugal, has an inoperable cancer and wants to die. After various failed suicide attempts, she joins the sketchy group Joy Transition International and meets Amadeu, a young undertaker who also wants to die. Their search for a peaceful death is the plot of this comedy that ends in Spain, where a doctor is willing to bend the euthanasia bureaucracies for immigrants.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Portugal",
+      "Spain",
+      "Brazil"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_sonhar-com-leoes/rousseau-1897-la_bohe-mienne_endormie.jpeg",
+    "url": "https://assistedlab.ch/visual/sonhar-com-leoes"
+  },
+  {
+    "id": "the-room-next-door",
+    "title": "'The Room Next Door' by Pedro Almodóvar and Sigrid Nunez",
+    "creator": "Pedro Almodóvar",
+    "description": "Spanish director Pedro Almodóvar’s 2024 adaptation of American author Sigrid Nunez’s novel ‘What Are You Going Through’ (2020) recounts Ingrid’s decision to care for her dying friend. The film portrays assisted dying positively by framing Ingrid’s decision to assist her friend’s death as motivated by compassion as legalization is being debated in the state of New York.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-room-next-door/the-room-next-door.jpg",
+    "url": "https://assistedlab.ch/visual/the-room-next-door"
+  },
+  {
+    "id": "truelove",
+    "title": "'Truelove' by Charlie Covell and Ian Weatherby",
+    "creator": "Charlie Covell and Ian Weatherby (created by)",
+    "description": "A group of schoolfriends reconnect in their 70s at a friend’s funeral and promise to assist each other to die if and when the time comes; when one of them gets cancer, their pact is tested. In the complex drama that emerges assisted dying is used both to explore moral issues and as a plot device in a police thriller.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_truelove/geograph-2774687-by-chris-talbot.jpg",
+    "url": "https://assistedlab.ch/visual/truelove"
+  },
+  {
+    "id": "witte-flits",
+    "title": "'Witte flits' by Laura Hermanides",
+    "creator": "Laura Hermanides (director and writer), Roelof Jan Minneboo (writer)",
+    "description": "Rick has been suffering from severe psychological issues for twenty years. His persistent wish not to live any longer is acknowledged by a psychiatrist, who assists with his suicide. Rick is actively supported by his parents, who come to recognize the hopelessness of their son’s situation.",
+    "type": "visual",
+    "year": 2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_witte-flits/geert-bonstra.png",
+    "url": "https://assistedlab.ch/visual/witte-flits"
+  },
+  {
+    "id": "goodbye-letter",
+    "title": "Goodbye letter by Antonio Cicero",
+    "creator": "Antonio Cicero",
+    "description": "After the Brazilian poet and philosopher Antonio Cicero received a medically assisted death in Switzerland in 2024, multiple news sources reproduced his goodbye letter, in which the writer explains the reasons for ending his life. Cicero’s letter struck a nerve with Brazilian society, revealing the need to discuss the ethics and legality of self-determination in death in Brazil.",
+    "type": "textual",
+    "year": 2024,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "Brazil",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_goodbye-letter/cerchiaro-2017-cicero.jpg",
+    "url": "https://assistedlab.ch/textual/goodbye-letter"
+  },
+  {
+    "id": "the-last-words-of-maria-benito",
+    "title": "The last words of María Benito",
+    "creator": "María Benito",
+    "description": "After a legal battle to ratify her right to refuse treatment, María Benito had her artificial vital support systems removed and died, becoming the second person in Peru to win a constitutional appeal for the right to die. Benito’s last words, communicated via a device that tracked her eye movements, were first shared on social media and then reported by multiple news sources.",
+    "type": "textual",
+    "year": 2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Peru"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_the-last-words-of-maria-benito/aria-ai-20250411-benito-last_words.jpg",
+    "url": "https://assistedlab.ch/textual/the-last-words-of-maria-benito"
+  },
+  {
+    "id": "a-good-death",
+    "title": "'A Good Death' by Jason Warick",
+    "creator": "Jason Warick; CBC News",
+    "description": "A Good Death is a profile of Saskatoon artist Jeanette Lodoen before, during, and after her death by medical assistance in dying. She granted CBC News unrestricted access to herself and her family in her final days because she wanted to share what an assisted death is like with families, health professionals, and lawmakers.",
+    "type": "textual",
+    "year": 2023,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_a-good-death/three-dancers-in-ukrainian-dress.jpg",
+    "url": "https://assistedlab.ch/textual/a-good-death"
+  },
+  {
+    "id": "cien-cuyes",
+    "title": "'Cien cuyes' by Gustavo Rodríguez",
+    "creator": "Gustavo Rodríguez",
+    "description": "Eufrasia Vela cares so well for the affluent elderly in Lima, that they start asking her to assist in their deaths – and the ensuing dilemmas propel Gustavo Rodríguez’s novel ‘Cien cuyes’. Approaching the problem of loneliness in aging societies with humour and without judgement, the novel has sparked debate on assisted dying at the nexus of class, caregiving, and community.",
+    "type": "textual",
+    "year": 2023,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Peru"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_cien-cuyes/aria-ai-20250502-martita.jpg",
+    "url": "https://assistedlab.ch/textual/cien-cuyes"
+  },
+  {
+    "id": "ein-mann-seiner-zeit-by-roswitha-quadflieg",
+    "title": "'Ein Mann seiner Zeit' by Roswitha Quadflieg",
+    "creator": "Roswitha Quadflieg",
+    "description": "Roswitha Quadflieg’s novel tells the story of Paul Gärtner who, in his mid-seventies and reliant on a wheelchair after battling cancer, records his life story and advocates for the right to access sodium pentobarbital for those seeking to end their lives on their own. The novel was received with praise from advocacy groups in Germany and Switzerland.",
+    "type": "textual",
+    "year": 2023,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ein-mann-seiner-zeit-by-roswitha-quadflieg/bild-quadflieg.jpg",
+    "url": "https://assistedlab.ch/textual/ein-mann-seiner-zeit-by-roswitha-quadflieg"
+  },
+  {
+    "id": "is-it-too-easy-to-die-in-canada",
+    "title": "'Is it too easy to die in Canada?' by The Fifth Estate",
+    "creator": "The Fifth Estate (CBC News), Gillian Findlay",
+    "description": "This documentary explores medical assistance in dying (MAID) in Canada as Parliament prepares to remove the exclusion in the law that does not allow people to access MAID if their sole criteria for access is a mental illness. The documentary takes a critical stance, introducing viewers to instances where MAID was seemingly approved for non-medical reasons or in reaction to mental health crises.",
+    "type": "visual",
+    "year": 2023,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_is-it-too-easy-to-die-in-canada/screenshot-from-doc.png",
+    "url": "https://assistedlab.ch/visual/is-it-too-easy-to-die-in-canada"
+  },
+  {
+    "id": "mala-carne",
+    "title": "'Mala carne' by Sofía Almiroty",
+    "creator": "Sofía Almiroty",
+    "description": "In Sofía Almiroty’s debut novel, Ariana takes her grandmother Rosa, whose skin is ravaged by a rare cancer, to say goodbye to the town where Rosa grew up; they hope to have enough morphine to keep the pain at bay. Set in Argentina, the novel was published in Spain, where assisted dying has been legal since 2021 – as opposed to Argentina, where it remains a crime.",
+    "type": "textual",
+    "year": 2023,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "Argentina",
+      "Spain"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_mala-carne/aria-ai-20250513-que_quiso_decir.jpg",
+    "url": "https://assistedlab.ch/textual/mala-carne"
+  },
+  {
+    "id": "marieke-addicted-to-life-by-pola-rapaport",
+    "title": "'Marieke, addicted to life' by Pola Rapaport",
+    "creator": "Pola Rapaport (director)",
+    "description": "The Belgian wheelchair athlete Marieke Vervoort suffered from progressive myelopathy, a rare degenerative muscle disease. The winner of multiple medals at the 2012 and 2016 Paralympic Games experienced increasingly unbearable pain and chose to pass away through euthanasia in 2019, which is presented in a positive light. As a public figure, her case sparked widespread debate in the media.",
+    "type": "visual",
+    "year": 2023,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_marieke-addicted-to-life-by-pola-rapaport/cristo_redentor.jpg",
+    "url": "https://assistedlab.ch/visual/marieke-addicted-to-life-by-pola-rapaport"
+  },
+  {
+    "id": "the-leave-taking",
+    "title": "'The Leave-Taking' by Ruth Steinberg",
+    "creator": "Ruth Steinberg",
+    "description": "Photo-based artist Ruth Steinberg had been taking pictures of her neighbour and friend, Alma Norman, for years when the latter decided to have a medically assisted death. The intimate photographs from the 5 months leading up to Norman’s death in November 2020 were made public in The Leave-Taking, an exhibit in Karsh-Masson Gallery in Ottawa’s City Hall, in 2023.",
+    "type": "visual",
+    "year": 2023,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-leave-taking/the-leave-taking-ruth-steinberg-photographs_-www.ruthsteinbergphotographs.com.png",
+    "url": "https://assistedlab.ch/visual/the-leave-taking"
+  },
+  {
+    "id": "when-my-doctor-offered-to-help-me-take-my-life",
+    "title": "'When My Doctor Offered to Help Me Take My Life' by Bill Gardner",
+    "creator": "Bill Gardner",
+    "description": "In this blog post, Bill Gardner shares the story of being offered an assisted death as treatment for throat cancer. Drawing on his background as a mental health services researcher, Bill criticizes Canada’s approach to medical assistance in dying as contrary to efforts to prevent suicide and to protect vulnerable people.",
+    "type": "textual",
+    "year": 2023,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_when-my-doctor-offered-to-help-me-take-my-life/vanitas-still-life-min.jpeg",
+    "url": "https://assistedlab.ch/textual/when-my-doctor-offered-to-help-me-take-my-life"
+  },
+  {
+    "id": "all-is-beauty-the-most-beautiful-exit",
+    "title": "'All is Beauty/The Most Beautiful Exit' by Simons",
+    "creator": "La Maison Simons, Broken Heart Love Affair",
+    "description": "The advertisement All is Beauty depicts in a positive light the final days of a woman’s life prior to her choosing to receive an assisted death. It was, however, pulled after news reports revealed that the protagonist had been vocal about the lack of support for her illness, and how this influenced her desire for an assisted death.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_all-is-beauty-the-most-beautiful-exit/picture1.png",
+    "url": "https://assistedlab.ch/visual/all-is-beauty-the-most-beautiful-exit"
+  },
+  {
+    "id": "esther-s-story",
+    "title": "'Esther's Story' by Julia Sartorio",
+    "creator": "Julia Sartorio (producer), Miriama Kamo (presenter)",
+    "description": "Part of the weekly ‘Sunday’ programme on TVNZ, this short documentary segment follows assisted dying campaigner and cancer patient Esther Richards in the days before her assisted death. Broadcast just 6 months after assisted dying was legalised in Aotearoa/New Zealand, the segment hints at the challenges and moral ambiguities of Esther’s decision but predominantly publicises the new right to die.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": "Euthanasia",
+    "countries": [
+      "New Zealand"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_esther-s-story/pexels-lucasandrade-20340269.jpg",
+    "url": "https://assistedlab.ch/visual/esther-s-story"
+  },
+  {
+    "id": "in-love-a-memoir-of-love-and-loss",
+    "title": "'In Love: A Memoir of Love and Loss' by Amy Bloom",
+    "creator": "Amy Bloom",
+    "description": "In her memoir In Love, Amy Bloom recounts the story of her husband’s death at Dignitas, an accompanied suicide organization in Switzerland, after his diagnosis with early-onset Alzheimer’s disease. Woven into Amy’s account of Brian’s illness and death are poignant and darkly funny vignettes of their marriage, and of Amy’s struggle to fulfil Brian’s request for an assisted death.",
+    "type": "textual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "United States",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_in-love-a-memoir-of-love-and-loss/zurich-scenery-by-quasuo.jpg",
+    "url": "https://assistedlab.ch/textual/in-love-a-memoir-of-love-and-loss"
+  },
+  {
+    "id": "last-flight-home",
+    "title": "'Last Flight Home' by Ondi Timoner",
+    "creator": "Ondi Timoner (director)",
+    "description": "Ondi Timoner tells the story of her father, Eli Timoner, a former entrepreneur and founder of an airline, who chooses to end his life by medical assistance in dying under California’s End of Life Option Act.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_last-flight-home/screenshot-2023-12-18-at-11.28.25-am.png",
+    "url": "https://assistedlab.ch/visual/last-flight-home"
+  },
+  {
+    "id": "maid-in-canada",
+    "title": "'MAID in Canada' by City News",
+    "creator": "City News",
+    "description": "This documentary from City News follows the stories of Cheryl Romaire and Jennifer Monahan as they consider medical assistance in dying. Their stories occur against the backdrop of recent changes in Canadian law that expanded access to assisted death for non-terminal patients, like Cheryl and Jennifer, who live with conditions that cause them chronic pain but that are not terminal.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_maid-in-canada/calgary-downtown-skyline-by-msvg_-maid-in-canada.jpg",
+    "url": "https://assistedlab.ch/visual/maid-in-canada"
+  },
+  {
+    "id": "obituary-of-sathya-dhara-kovac",
+    "title": "'Obituary' by Sathya Dhara Kovac",
+    "creator": "Sathya Dhara Kovac",
+    "description": "In this self-written obituary to her loved ones, Sathya Kovac condemns the societal structures that led to her death by medical assistance in dying on October 3, 2022, at the age of 44. Sathya points not to amyotrophic lateral sclerosis (ALS) as the cause of her death, but rather the lack of supports and services that would have promoted her independence and quality of life.",
+    "type": "textual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_obituary-of-sathya-dhara-kovac/kovac_image_v1.jpg",
+    "url": "https://assistedlab.ch/textual/obituary-of-sathya-dhara-kovac"
+  },
+  {
+    "id": "plan-75",
+    "title": "'Plan 75' by Chie Hayakawa",
+    "creator": "Chie Hayakawa (director and writer), Jason Grey (writer)",
+    "description": "In a dystopian scenario, the Japanese government initiates Plan 75, and all citizens over 75 are given the option to be euthanized in exchange for 100’000 Yen to alleviate the socio-economic burden from an ageing population. The film follows elders and administrators of Plan 75 as they go through the steps of offering and accepting the plan.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": "Illegal",
+    "countries": [
+      "Japan"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_plan-75/picture_plan75_ai.png",
+    "url": "https://assistedlab.ch/visual/plan-75"
+  },
+  {
+    "id": "the-last-doctor-lessons-in-living-from-the-front-lines-of-medical-assistance-in-dying",
+    "title": "'The Last Doctor: Lessons in Living from the Front Lines of Medical Assistance in Dying' by Dr. Jean Marmoreo, Johanna Schneller",
+    "creator": "Dr. Jean Marmoreo, Johanna Schneller",
+    "description": "Dr. Jean Marmoreo, a family doctor working in Toronto, recounts how she came to provide assisted dying through the stories of seven patients. Co-authored by journalist Johanna Schneller, this memoir explores the challenges that assisted dying practitioners faced following legalization of the procedure in Canada and was a finalist for the 2022 Balsillie Prize for Public Policy.",
+    "type": "textual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_the-last-doctor-lessons-in-living-from-the-front-lines-of-medical-assistance-in-dying/image-the-last-doctor.jpg",
+    "url": "https://assistedlab.ch/textual/the-last-doctor-lessons-in-living-from-the-front-lines-of-medical-assistance-in-dying"
+  },
+  {
+    "id": "this-is-assisted-dying",
+    "title": "'This is Assisted Dying' by Stefanie Green, MD",
+    "creator": "Stefanie Green, MD",
+    "description": "In this memoir, Dr. Stefanie Green chronicles her first year providing medical assistance in dying (MAID) immediately following the procedure’s legalization in 2016. Dr. Green is one of Canada’s leading MAID providers and is the founding president of the Canadian Association of MAID Assessors and Providers.",
+    "type": "textual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_this-is-assisted-dying/41432796971_edfe000f48_o.jpg",
+    "url": "https://assistedlab.ch/textual/this-is-assisted-dying"
+  },
+  {
+    "id": "ti-si-what-ti-si",
+    "title": "'TI SI WHAT TI SI' by Paola Roldán",
+    "creator": "Paola Roldán",
+    "description": "Published two years before her constitutional victory for the right to die, Paola Roldán’s memoir narrates her journey of self-discovery and of living with ALS, a chronic disease that left her paralyzed and dependent on a respirator. Dedicated to her son and having a spiritual dimension, the 2022 book helped promote Roldán’s plea for self-determination in Ecuador’s religious-political landscape.",
+    "type": "textual",
+    "year": 2022,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Ecuador"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ti-si-what-ti-si/roldan-2024-en_su_habitacion_junto_a_sus_amigas-ig.jpg",
+    "url": "https://assistedlab.ch/textual/ti-si-what-ti-si"
+  },
+  {
+    "id": "un-beau-matin",
+    "title": "'Un Beau Matin' by Mia Hansen-Løve",
+    "creator": "Mia Hansen-Løve",
+    "description": "Sandra, a single mother of an eight-year-old daughter, accompanies her father through his care after being afflicted with a neurodegenerative disease. The film shows her father’s rapidly deteriorating state and the difficulties posed for the family as he ceases to recognize his family members or surroundings.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_un-beau-matin/picture1.jpg",
+    "url": "https://assistedlab.ch/visual/un-beau-matin"
+  },
+  {
+    "id": "sophia-s-video-statement",
+    "title": "'Video Statement' by Sophia",
+    "creator": "Sophia (pseudonym)",
+    "description": "In this video statement, Sophia describes her struggle to find suitable housing for her multiple chemical sensitivities shortly before her medically assisted death. The video became a touchstone in disability rights discourse for activists arguing that Canada’s medical assistance in dying regime lacks sufficient safeguards to protect vulnerable people.",
+    "type": "visual",
+    "year": 2022,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_sophia-s-video-statement/warrnambool-city-council_wheelchair-accessible.jpg",
+    "url": "https://assistedlab.ch/visual/sophia-s-video-statement"
+  },
+  {
+    "id": "bill-c7-an-overview-of-available-help",
+    "title": "'Bill C7: An Overview of Available Help' by Jane Shi",
+    "creator": "Jane Shi",
+    "description": "In a 10-word poem entitled ‘Bill C7: An Overview of Available Help’, Jane Shi responds critically to the extension of Canada’s medical assistance in dying regime to include people whose death is not reasonably foreseeable, but who nevertheless have a serious medical condition.",
+    "type": "textual",
+    "year": 2021,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_bill-c7-an-overview-of-available-help/picture1.png",
+    "url": "https://assistedlab.ch/textual/bill-c7-an-overview-of-available-help"
+  },
+  {
+    "id": "hace-un-ano-murio-mi-padre",
+    "title": "'Hace un año murió mi padre' by Florencia Salgueiro",
+    "creator": "Florencia Salgueiro",
+    "description": "In 2021, Florencia Salgueiro wrote a viral social-media thread about her father Pablo, who slowly died from ALS while wishing he could access euthanasia. Florencia became the visible face of the pro-euthanasia movement in Uruguay, the first Latin-American country to carry out a comprehensive euthanasia reform – and Florencia’s thread would become part of the parliamentary records.",
+    "type": "textual",
+    "year": 2021,
+    "status_context": null,
+    "countries": [
+      "Uruguay"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_hace-un-ano-murio-mi-padre/strudwick-1885-a_golden_thread.jpg",
+    "url": "https://assistedlab.ch/textual/hace-un-ano-murio-mi-padre"
+  },
+  {
+    "id": "les-mots-de-la-fin",
+    "title": "'Les mots de la fin' by Gaëlle Hardy and Agnès Lejeune",
+    "creator": "Gaëlle Hardy (director and writer), Agnès Lejeune (director and writer)",
+    "description": "Marking almost twenty years since the introduction of euthanasia in Belgium, this documentary provides insights from the office of Dr Damas, a physician responsible for assisted dying in a Belgian public hospital.",
+    "type": "visual",
+    "year": 2021,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_les-mots-de-la-fin/52449611517_7b5a51eaef_o.jpg",
+    "url": "https://assistedlab.ch/visual/les-mots-de-la-fin"
+  },
+  {
+    "id": "o-sentido-da-vida",
+    "title": "'O Sentido da Vida' by Stop eutanásia",
+    "creator": "Stop eutanásia",
+    "description": "Through succinct scenes and tableaux, this short film produced by the Portuguese anti-euthanasia group ‘Stop eutanásia’ casts euthanasia as the antithesis to hope, encouraging viewers to ‘say yes to life.’ It was circulated on social media amidst increasing debates in Portugal about legalizing euthanasia in 2021.",
+    "type": "visual",
+    "year": 2021,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Portugal"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_o-sentido-da-vida/screenshot-2024-02-16-at-10.26.10pm.png",
+    "url": "https://assistedlab.ch/visual/o-sentido-da-vida"
+  },
+  {
+    "id": "tout-s-est-bien-passe",
+    "title": "'Tout s’est bien passé' by François Ozon",
+    "creator": "François Ozon (director and writer),  Emmanuèle Bernheim (writer), Philippe Piazzo (writer)",
+    "description": "Following a transient ischemic attack, André Bernheim, the father of novelist Emmanuèle Bernheim, asks his daughter to help him end his life. This film adaptation of Bernheim's novel follows Emmanuèle and her sister, Pascale, as they come to terms with their father’s decision and try to navigate the complex legalities that surround assisted dying for French citizens in Switzerland.",
+    "type": "visual",
+    "year": 2021,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_tout-s-est-bien-passe/natural-switzerland.jpg",
+    "url": "https://assistedlab.ch/visual/tout-s-est-bien-passe"
+  },
+  {
+    "id": "trascolorare",
+    "title": "‘Trascolorare’ by Daniele Pieroni",
+    "creator": "Daniele Pieroni",
+    "description": "The 64-year-old poet Daniele Pieroni was the first Tuscan resident to end his life by assisted suicide following the 2025 regional law regulating the procedure. His meditation on death known as ‘Trascolorare’, online since 2021, gained widespread circulation as a poetical testament, becoming entangled with the legal battles for assisted dying in Italy.",
+    "type": "textual",
+    "year": 2021,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Italy"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_trascolorare/caravaggio-c1600-vocazione_di_san_matteo-det.jpg",
+    "url": "https://assistedlab.ch/textual/trascolorare"
+  },
+  {
+    "id": "noticias-caracol-interview",
+    "title": "Noticias Caracol interview with Martha Sepúlveda",
+    "creator": "Martha Sepúlveda (interviewee), Juan David Laverde (interviewer)",
+    "description": "In October 2021, Noticias Caracol aired an interview with Martha Sepúlveda, who expected to become the first non-terminal patient to have a legal euthanasia in Colombia. The interview went viral; Sepúlveda’s unworried attitude – smiling and seeing no conflict between her decision and her Catholic faith – caused controversy, and her euthanasia was cancelled before being reauthorized for 2022.",
+    "type": "visual",
+    "year": 2021,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Colombia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_noticias-caracol-interview/sepulveda-20220122-eespectador-ncaracol.jpg",
+    "url": "https://assistedlab.ch/visual/noticias-caracol-interview"
+  },
+  {
+    "id": "all-of-us-by-willem-wallyn",
+    "title": "'All of Us' by Willem Wallyn",
+    "creator": "Willem Wallyn (director)",
+    "description": "‘All of Us’ is the story of terminally ill Cathy, who suffers from breast cancer. She joins a self-help group consisting of Vince, Lizzy and Philippe and led by therapist Els, who herself is in a full mid-life crisis. Blending emotion with humour, the film offers a moving reflection on mortality, vulnerability, and human connection.",
+    "type": "visual",
+    "year": 2020,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_all-of-us-by-willem-wallyn/untitled-artwork-generated-based-on-photography-all-of-us-by-elic-de-mildt.png",
+    "url": "https://assistedlab.ch/visual/all-of-us-by-willem-wallyn"
+  },
+  {
+    "id": "gott-von-ferdinand-von-schirach",
+    "title": "'GOTT von Ferdinand von Schirach' by Lars Kraume",
+    "creator": "Lars Kraume (director), Ferdinand von Schirach (writer)",
+    "description": "After the death of his wife, 78-year-old Richard Gärtner wants to end his life by assisted suicide, although he is in perfect health. In form of a meeting of the German Ethics Council, the film questions whether it is ethically justifiable for a doctor to help a healthy person to take their own life.",
+    "type": "visual",
+    "year": 2020,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_gott-von-ferdinand-von-schirach/an-empty-ethics-council.jpg",
+    "url": "https://assistedlab.ch/visual/gott-von-ferdinand-von-schirach"
+  },
+  {
+    "id": "gott-ein-theaterstuck",
+    "title": "'GOTT. Ein Theaterstück' by Ferdinand von Schirach",
+    "creator": "Ferdinand von Schirach",
+    "description": "After the death of his wife, 78-year-old Richard Gärtner wants to end his life by assisted suicide, although he is in perfect health. In the form of a meeting of the German Ethics Council, the play questions whether it is ethically justifiable for a doctor to help a healthy person take their own life and lets the audience vote on it.",
+    "type": "performative",
+    "year": 2020,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/4_performative/0_gott-ein-theaterstuck/meeting-of-an-ethics-council-on-a-theatre-stage.jpg",
+    "url": "https://assistedlab.ch/performative/gott-ein-theaterstuck"
+  },
+  {
+    "id": "muttertag",
+    "title": "'Muttertag' by Ralf Schlatter",
+    "creator": "Ralf Schlatter",
+    "description": "A man takes a walking trip towards his mother’s house to help her to die. During this one-day trip in her direction, he remembers his childhood and his mother, and tries to understand her decision to opt for an assisted death.",
+    "type": "textual",
+    "year": 2020,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_muttertag/adobestock_550676106.jpeg",
+    "url": "https://assistedlab.ch/textual/muttertag"
+  },
+  {
+    "id": "supernova",
+    "title": "'Supernova' by Harry Macqueen",
+    "creator": "Harry Macqueen",
+    "description": "Tusker and Sam, romantic partners for over twenty years, face Tusker’s early onset dementia diagnosis by taking a road trip around the United Kingdom to visit their favourite places. All is well until Sam discovers that Tusker plans to end his life before he is dependent on others for his personal care.",
+    "type": "visual",
+    "year": 2020,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_supernova/picture1.jpg",
+    "url": "https://assistedlab.ch/visual/supernova"
+  },
+  {
+    "id": "alisa-pokupaet-smert",
+    "title": "'Alisa pokupaet smert'' by Liudmila Ulitskaia",
+    "creator": "Liudmila Ulitskaia",
+    "description": "Alisa, an elderly woman, faces a minor medical incident that prompts her to confront the prospect of dying alone. Determined to retain control over her final chapter, she obtains a bottle of barbiturates from a physician. She then falls in love with and marries him. After his tragic death, she adopts his grandchild, and embarks on a new chapter of her life.",
+    "type": "textual",
+    "year": 2019,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "Russia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_alisa-pokupaet-smert/adobestock_677926942.jpeg",
+    "url": "https://assistedlab.ch/textual/alisa-pokupaet-smert"
+  },
+  {
+    "id": "audrey-parker-s-last-message-to-canadians",
+    "title": "'Audrey Parker’s last message to Canadians' by Audrey Parker",
+    "creator": "Audrey Parker",
+    "description": "In this video statement, Audrey Parker appeals to Canadians to have the MAID laws in place in 2018 changed. Parker felt that she was obliged to receive MAID earlier than necessary due to her fear that she would lose the ability to provide late-stage consent, one of the law’s original stipulations. Audrey’s Amendment was introduced in 2021 eliminating the requirement of late-stage consent.",
+    "type": "visual",
+    "year": 2019,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_audrey-parker-s-last-message-to-canadians/screenshot-2024-01-21-at-4.52.08pm.png",
+    "url": "https://assistedlab.ch/visual/audrey-parker-s-last-message-to-canadians"
+  },
+  {
+    "id": "blackbird",
+    "title": "'Blackbird' by Roger Mitchell",
+    "creator": "Roger Mitchell (director) & Christian Torpe (writer)",
+    "description": "Lily, the matriarch of her family, is diagnosed with ALS and takes the decision to end her life with the help of her spouse, Paul. The film follows her as she invites her family for a final weekend together in their beach home, where the different ways in which the family members deal with Lily's planned death are shown.",
+    "type": "visual",
+    "year": 2019,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_blackbird/picture1.png",
+    "url": "https://assistedlab.ch/visual/blackbird"
+  },
+  {
+    "id": "celebrare-mi-muerte",
+    "title": "'Celebraré mi muerte' by Marcos Hourmann",
+    "creator": "Marcos Hourmann",
+    "description": "Dr. Hourmann’s monologue invites the audience to become the jury he never had. In 2005, after Hourmann helped 82-year-old Carmen die in a Spanish ER, he registered the procedure in her medical record. Hourmann was fired and sued by the hospital, eventually pleading guilty to avoid jail. When his story was exploited by a UK tabloid, he tried to regain narrative agency, staging his documentary play.",
+    "type": "performative",
+    "year": 2019,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Spain",
+      "Argentina"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/4_performative/0_celebrare-mi-muerte/forain-1927-court_scene.jpg",
+    "url": "https://assistedlab.ch/performative/celebrare-mi-muerte"
+  },
+  {
+    "id": "this-is-cancer-in-the-end",
+    "title": "'This is Cancer in The End' by Amanda Villegas",
+    "creator": "Amanda Villegas",
+    "description": "In this series of photographs, Amanda Villegas documents the final days in the life of her husband, Chris Davis, as he dies from bladder cancer. Although Chris wanted to access medical aid in dying, he was unable to do so because of misinformation and procedural requirements in California’s End of Life Option Act at the time of his death.",
+    "type": "visual",
+    "year": 2019,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_this-is-cancer-in-the-end/img_4451.jpg",
+    "url": "https://assistedlab.ch/visual/this-is-cancer-in-the-end"
+  },
+  {
+    "id": "une-autre-histoire",
+    "title": "'Une autre histoire' by Chantal Cadieux",
+    "creator": "Chantal Cadieux",
+    "description": "In this TV series spanning four seasons, Anémone Leduc is forced to reckon with her past because of a diagnosis of hereditary early onset Alzheimer’s disease. Over the course of the series, she reconciles with her estranged children and chooses to have an assisted death before she loses decision-making capacity, as required under law in dementia cases at the time.",
+    "type": "visual",
+    "year": 2019,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_une-autre-histoire/vue_aerienne_-_riviere_portneuf_et_fleuve_saint-laurent.jpeg",
+    "url": "https://assistedlab.ch/visual/une-autre-histoire"
+  },
+  {
+    "id": "t-is-goed-zo",
+    "title": "'‘T Is Goed Zo' by Jesse van Venrooij",
+    "creator": "Jesse van Venrooij (director)",
+    "description": "This documentary follows the last three months of Eelco de Gooijer, a 38-year-old Dutch man suffering from severe mental health problems who decided to end his life by euthanasia. The film provides an intimate look at Eelco’s struggle with life, the support he has from his family regarding his decision, and how they cope after his death.",
+    "type": "visual",
+    "year": 2018,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_t-is-goed-zo/komargorod_pond_2013_g3.jpg",
+    "url": "https://assistedlab.ch/visual/t-is-goed-zo"
+  },
+  {
+    "id": "die-fliegengottin",
+    "title": "'Die Fliegengöttin' by Hansjörg Schertenleib",
+    "creator": "Hansjörg Schertenleib",
+    "description": "Willem and Eilis de Witt have been married for over 50 years when Eilis is diagnosed with Alzheimer's disease. Willem has already been caring for his wife for two years, but is now reaching the limits of his resilience. While he had promised his wife he would euthanize her if this ever became the case, he refrains from doing so at the last moment.",
+    "type": "textual",
+    "year": 2018,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_die-fliegengottin/schertenleib-2.jpg",
+    "url": "https://assistedlab.ch/textual/die-fliegengottin"
+  },
+  {
+    "id": "die-gluckssucherin-warum-margrit-schappi-einen-lebensratgeber-schrieb-und-trotzdem-den-freitod-wahlte",
+    "title": "'Die Glückssucherin. Warum Margrit Schäppi einen Lebensratgeber schrieb und trotzdem den Freitod wählte' by Margrit Schäppi and Matthias Ackeret",
+    "creator": "Margrit Schäppi and Matthias Ackeret",
+    "description": "The book is a life advisor written by 81-year-old Margrit Schäppi based on her own life story. Before publication, she took her life with the aid of a Swiss assisted suicide organisation. This prompted Matthias Ackeret not only to arrange for it to be published, but also to write an epilogue in which he harshly criticises the Swiss assisted suicide model.",
+    "type": "textual",
+    "year": 2018,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_die-gluckssucherin-warum-margrit-schappi-einen-lebensratgeber-schrieb-und-trotzdem-den-freitod-wahlte/ackeret.jpg",
+    "url": "https://assistedlab.ch/textual/die-gluckssucherin-warum-margrit-schappi-einen-lebensratgeber-schrieb-und-trotzdem-den-freitod-wahlte"
+  },
+  {
+    "id": "october",
+    "title": "'October' by Shoojit Sircar",
+    "creator": "Shoojit Sircar (Director), Juhi Chaturvedi (Writer)",
+    "description": "In ‘October,’ Dan gets attached to his coworker Shiuli while waiting for her to recover from a deep coma. During this wait, Dan and Shiuli’s family have multiple conversations about the possibility of ‘pulling the plug.’ ‘October’ subtly broaches the topic of passive euthanasia, and ultimately affirms conventional beliefs held in India about the sacredness of life.",
+    "type": "visual",
+    "year": 2018,
+    "status_context": null,
+    "countries": [],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_october/rminedaisy-4xclt0sbnec-unsplash-2.jpg",
+    "url": "https://assistedlab.ch/visual/october"
+  },
+  {
+    "id": "roger-foley-s-audio-recordings",
+    "title": "'Recordings' by Roger Foley",
+    "creator": "Roger Foley",
+    "description": "In these audio recordings, Roger Foley discusses medical assistance in dying with staff of the hospital where he lives. In the conversations, hospital staff raise the possibility of medical assistance in dying as Roger, who never mentioned the issue, asserts his need for self-directed funding so he can live in the community.",
+    "type": "audio",
+    "year": 2018,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/3_audio/0_roger-foley-s-audio-recordings/foley_image.jpg",
+    "url": "https://assistedlab.ch/audio/roger-foley-s-audio-recordings"
+  },
+  {
+    "id": "facebook-posts-and-livestreams-by-fu-ta-jen-and-fu-chun-hao",
+    "title": "Facebook posts and livestreams by Fu Ta-Jen and Fu Chun-Hao",
+    "creator": "Fu Ta-Jen, Fu Chun-Hao",
+    "description": "Taiwanese broadcaster Fu Ta-Jen, diagnosed with pancreatic cancer, chose to have a physician-assisted death in Switzerland on June 7, 2018, with witnesses present. While there is no existing law regarding assisted dying in Taiwan, his decision sparked societal debate on the right to die, largely fueled by his continuous advocacy on Facebook.",
+    "type": "textual",
+    "year": 2018,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Taiwan",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_facebook-posts-and-livestreams-by-fu-ta-jen-and-fu-chun-hao/facebook.jpg",
+    "url": "https://assistedlab.ch/textual/facebook-posts-and-livestreams-by-fu-ta-jen-and-fu-chun-hao"
+  },
+  {
+    "id": "after",
+    "title": "'After' by Nikki Gemmell",
+    "creator": "Nikki Gemmell",
+    "description": "This memoir by Nikki Gemmell explores her mother Elayn’s unexpected suicide in reaction to chronic pain and the subsequent fallout. Elayn was a member of Exit International and Gemmell’s high-profile story was part of the national conversation on legalising assisted dying in Australia.",
+    "type": "textual",
+    "year": 2017,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_after/a-fashion-model-standing-against-tree-trunk-poses-for-a-photo-bf9e52.jpg",
+    "url": "https://assistedlab.ch/textual/after"
+  },
+  {
+    "id": "at-his-own-wake-celebrating-life-and-the-gift-of-death",
+    "title": "'At His Own Wake, Celebrating Life and the Gift of Death' by Catherine Porter",
+    "creator": "Catherine Porter",
+    "description": "In this New York Times cover story, Catherine Porter recounts the assisted death of John Shields, an activist, environmentalist, and union leader from Vancouver Island. The article appeared shortly before the one-year anniversary of the legalization of medical assistance in dying in Canada and explores how assisted death impacts the rituals surrounding death.",
+    "type": "textual",
+    "year": 2017,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_at-his-own-wake-celebrating-life-and-the-gift-of-death/35721586064_ed51c90205_o.jpg",
+    "url": "https://assistedlab.ch/textual/at-his-own-wake-celebrating-life-and-the-gift-of-death"
+  },
+  {
+    "id": "fade-to-black-by-jeremy-ervine",
+    "title": "'Fade to Black' by Jeremy Ervine",
+    "creator": "Jeremy Ervine (dir.)",
+    "description": "After learning that his oesophageal cancer has spread to his lungs, petrol station chain CEO Peter Short becomes the face of an Australian Senate assisted dying bill. This crowd-funded documentary recounts his political campaign, and his (unassisted) death, featuring interviews from Short’s family alongside ones from politicians and activists from both sides of the Australian right-to-die debate.",
+    "type": "visual",
+    "year": 2017,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_fade-to-black-by-jeremy-ervine/1024px-australian_senate_committee_hearing_2008.jpg",
+    "url": "https://assistedlab.ch/visual/fade-to-black-by-jeremy-ervine"
+  },
+  {
+    "id": "le-tout-dernier-ete",
+    "title": "'Le tout dernier été' by Anne Bert",
+    "creator": "Anne Bert",
+    "description": "French author Anne Bert sees the right to choose her own time of death as a fundamental human right, and this is her story of invoking that right by travelling from France to Belgium to receive an assisted death.",
+    "type": "textual",
+    "year": 2017,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France",
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_le-tout-dernier-ete/anne-bert.jpg",
+    "url": "https://assistedlab.ch/textual/le-tout-dernier-ete"
+  },
+  {
+    "id": "o-ultimo-abraco",
+    "title": "'O último abraço' by Vitor Hugo Brandalise",
+    "creator": "Vitor Hugo Brandalise",
+    "description": "In 2014, 74-year-old Nelson Golla complied with his wife Neusa’s request to die; Neusa was 72 and being fed through a nasogastric tube at a nursing home. Nelson hugged his wife and placed a homemade bomb between them, which killed Neusa and hurt him. The case is reconstructed by Vitor Hugo Brandalise in this book-length investigation, which fomented a debate about old age and euthanasia in Brazil.",
+    "type": "textual",
+    "year": 2017,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "Brazil"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_o-ultimo-abraco/aria-ai-20250309-brandalise.jpg",
+    "url": "https://assistedlab.ch/textual/o-ultimo-abraco"
+  },
+  {
+    "id": "the-sarco-by-philip-nitschke",
+    "title": "'Sarco' by Philip Nitschke",
+    "creator": "Philip Nitschke",
+    "description": "In 2017, Philip Nitschke created the Sarco suicide capsule to offer an autonomous, 'euphoric' death via nitrogen-induced hypoxia. Promoted as an expression and facilitator of personal freedom, its sci-fi design and 3D-printability raised ethical, legal, and safety concerns. First used in Switzerland in 2024, Sarco sparked debate over assisted dying laws and medical oversight.",
+    "type": "performative",
+    "year": 2017,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/4_performative/0_the-sarco-by-philip-nitschke/sarco-image.jpg",
+    "url": "https://assistedlab.ch/performative/the-sarco-by-philip-nitschke"
+  },
+  {
+    "id": "the-mother-situation",
+    "title": "'The Mother Situation' by Matt Day",
+    "creator": "Matt Day (dir.)",
+    "description": "In this short film, three adult siblings come together for their mother’s planned assisted death only to discover that she has changed her mind. A blackly comic look at the coercion that could emerge in assisted dying situations, made as Australia was beginning the legalisation process.",
+    "type": "visual",
+    "year": 2017,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-mother-situation/5147482972_84dcde0230_k.jpg",
+    "url": "https://assistedlab.ch/visual/the-mother-situation"
+  },
+  {
+    "id": "by-the-time-your-read-this-i-ll-be-dead-by-john-hofsess",
+    "title": "'By the Time Your Read This, I’ll Be Dead' by John Hofsess",
+    "creator": "John Hofsess",
+    "description": "In this article, right to die activist John Hofsess reveals that he illegally helped eight people kill themselves from 1999 to 2001, including the Canadian poet Al Purdy. Hofsess portrays himself in a positive light, as a hero of the assisted suicide cause, but a 2022 article by journalist Sandra Martin casts doubt on both his character and motivations.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_by-the-time-your-read-this-i-ll-be-dead-by-john-hofsess/toronto_al_purdy_memorial_01.jpg",
+    "url": "https://assistedlab.ch/textual/by-the-time-your-read-this-i-ll-be-dead-by-john-hofsess"
+  },
+  {
+    "id": "die-letzte-reise",
+    "title": "'Die letzte Reise' by Florian Baxmeyer",
+    "creator": "Florian Baxmeyer (director) and Thorsten Näter (writer)",
+    "description": "76-year-old Katharina, who lives in Hamburg, decides to travel to Zurich to take her own life with the help of an assisted suicide organisation. Her daughter, Heike, tries to prevent this through court proceedings, where she argues that her mother lacks the mental capacity to make this decision. But Katharina is able to convince the judge of her mental competence and ends up travelling to Zurich.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_die-letzte-reise/baxmeyer.jpg",
+    "url": "https://assistedlab.ch/visual/die-letzte-reise"
+  },
+  {
+    "id": "dying-a-memoir",
+    "title": "'Dying: A Memoir' by Cory Taylor",
+    "creator": "Cory Taylor",
+    "description": "Written as Cory Taylor was dying, this memoir explores her relationship with death, her perspective on her family and childhood, and her wish, illegal in Australia at the time, that she could have an assisted death with her family present. Media coverage of the book focused on Taylor’s detailed argument for legalisation and her quietly confrontational confession about ordering Nembutal from China.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_dying-a-memoir/4206463498_cf0a1e421c_k.jpg",
+    "url": "https://assistedlab.ch/textual/dying-a-memoir"
+  },
+  {
+    "id": "how-to-die-simon-s-choice",
+    "title": "'How To Die: Simon's Choice' by Rowan Deacon",
+    "creator": "Rowan Deacon (director)",
+    "description": "This primetime television documentary follows UK resident Simon Binner, diagnosed with an aggressive form of motor neurone disease (also known as amyotrophic lateral sclerosis), as he and those around him deal with his swiftly progressive illness and his decision to end his life through an assisted death in Switzerland.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_how-to-die-simon-s-choice/swiss-air-431942_1920.jpg",
+    "url": "https://assistedlab.ch/visual/how-to-die-simon-s-choice"
+  },
+  {
+    "id": "justica",
+    "title": "'Justiça' by Manuela Dias",
+    "creator": "Manuela Dias (writer), José Luiz Villamarim (director)",
+    "description": "Crossing the street to meet her husband Maurício, in front of the theatre where she stars as dancer, Beatriz is struck by a hit-and-run driver and left tetraplegic. She asks Maurício to help her end her life; he complies and is sent to jail for 7 years. This is a main storyline in ‘Justiça’, a TV series that reignited the debate on assisted death in Brazil, where the practice is illegal.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "Brazil"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_justica/aria-ai-20250317-dias.jpg",
+    "url": "https://assistedlab.ch/visual/justica"
+  },
+  {
+    "id": "lecretia-s-choice",
+    "title": "'Lecretia's Choice' by Matt Vickers",
+    "creator": "Matt Vickers",
+    "description": "In this heartfelt memoir, Matt Vickers recounts how he and his wife, prominent lawyer Lecretia Seales who was diagnosed with a brain tumour, fought in the Aotearoa/New Zealand High Court to allow her to choose when she died. Although her case was rejected, Seales’s story influenced subsequent legalisation in the country.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": "Euthanasia",
+    "countries": [
+      "New Zealand"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_lecretia-s-choice/wellington_high_court_2015.jpg",
+    "url": "https://assistedlab.ch/textual/lecretia-s-choice"
+  },
+  {
+    "id": "levenseindekliniek",
+    "title": "'Levenseindekliniek' by Marcel Ouddeken, Hans Kema",
+    "creator": "Marcel Ouddeken and Hans Kema (directors)",
+    "description": "The documentary film ‘Levenseindekliniek’ revolves around the Dutch End-of-Life Clinic, an organization that specifically deals with patients whose euthanasia requests are complex. The film follows three patients who have requested euthanasia at the End-of-Life Clinic because their own doctors were not willing to proceed with euthanasia.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_levenseindekliniek/levenseindekliniek.jpg",
+    "url": "https://assistedlab.ch/visual/levenseindekliniek"
+  },
+  {
+    "id": "me-before-you",
+    "title": "'Me Before You' by Thea Sharrock and Jojo Moyes",
+    "creator": "Thea Sharrock (director), Jojo Moyes (writer)",
+    "description": "Following a road traffic collision, Will Traynor is paralysed and in need of constant care. His parents employ a young woman, Louisa Clark, to care for their son and Will and Louisa strike up an unlikely friendship and, later, a romance. Despite Louisa’s efforts to persuade Will that his life is still worth living, he decides to travel to Switzerland to end his life.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_me-before-you/640px-me_before_you.jpg",
+    "url": "https://assistedlab.ch/visual/me-before-you"
+  },
+  {
+    "id": "suissid",
+    "title": "'SuissID' by Vincent Gerber",
+    "creator": "Vincent Gerber",
+    "description": "Set in Switzerland, in an unspecified future, the company SuissID is active in the field of assisted suicide. Despite a veneer of customer service, the only thing that counts for them is financial success; due care criteria and the protection of life no longer play a role in this dystopian society.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_suissid/suissid.jpg",
+    "url": "https://assistedlab.ch/textual/suissid"
+  },
+  {
+    "id": "the-death-debate",
+    "title": "'The Death Debate' by Kevin Eastwood",
+    "creator": "Kevin Eastwood (Director and Producer)",
+    "description": "This 2016 documentary provides a behind-the-scenes view of the legal team at the British Columbia Civil Liberties Association as they bring the Carter case to the Supreme Court of Canada. The Carter case led to the legalization of assisted death in Canada and this change in the law is presented in a favourable light through the filmmaker’s editorial choices.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-death-debate/death-debate-photo-paul-shannon-public-domain.jpg",
+    "url": "https://assistedlab.ch/visual/the-death-debate"
+  },
+  {
+    "id": "the-easy-way-out",
+    "title": "'The Easy Way Out' by Steven Amsterdam",
+    "creator": "Steven Amsterdam",
+    "description": "Written by a writer who is also a palliative care nurse, this tragicomic novel examines what life might be like for someone working as a dying assistant if Australia legalised assisted dying. It was published in 2016, just as Australia was beginning to seriously consider legalisation at both the state and federal level.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_the-easy-way-out/royal._hosp.jpg",
+    "url": "https://assistedlab.ch/textual/the-easy-way-out"
+  },
+  {
+    "id": "translucido",
+    "title": "'Translúcido' by Leonard Zelig",
+    "creator": "Leonard Zelig (director)",
+    "description": "Diagnosed with terminal pancreatic cancer, Rubén, an Ecuadorian immigrant living in NYC, decides to forgo palliative treatment and end his own life with an overdose of heroin, assisted by a few friends. Co-produced by Ecuador, Venezuela, and the USA, this film has reverberated differently in the three countries, which have divergent laws regarding assisted dying.",
+    "type": "visual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "United States",
+      "Ecuador",
+      "Venezuela"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_translucido/hectonichus-2009-danaus_plexippus_chrysalis.jpg",
+    "url": "https://assistedlab.ch/visual/translucido"
+  },
+  {
+    "id": "wild-and-precious-life-a-mother-s-love-by-deborah-ziegler",
+    "title": "‘Wild and Precious Life’ / ‘A Mother’s Love’ by Deborah Ziegler",
+    "creator": "Deborah Ziegler",
+    "description": "Deborah Ziegler’s book provides an intimate portrait of her daughter, activist Brittany Maynard, from childhood until her death. The book became somewhat controversial due to Brittany’s reported desire that her mother not tell her story. Nonetheless, through her involvement with Death With Dignity, Deborah Ziegler has become an important figure in the US assisted dying lobby.",
+    "type": "textual",
+    "year": 2016,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_wild-and-precious-life-a-mother-s-love-by-deborah-ziegler/california_state_capitol_from_capitol_mall_-_sacramento_-26429122855.jpg",
+    "url": "https://assistedlab.ch/textual/wild-and-precious-life-a-mother-s-love-by-deborah-ziegler"
+  },
+  {
+    "id": "gina",
+    "title": "'Gina' by Wendell Cooke and Jeremy Macey",
+    "creator": "Wendell Cooke (dir.), Jeremy Macey (dir.)",
+    "description": "A three-minute documentary film about Gina, a New Zealand woman living with a rare genetic condition that affects her ears, eyes and larynx. Gina’s case has been mentioned in the New Zealand and Queensland parliaments and the film gained over 100,000 views in the years before assisted dying was legalised in Aotearoa/New Zealand.",
+    "type": "visual",
+    "year": 2015,
+    "status_context": "Euthanasia",
+    "countries": [
+      "New Zealand"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_gina/bed-in-a-dark-room.png",
+    "url": "https://assistedlab.ch/visual/gina"
+  },
+  {
+    "id": "in-the-presence-of-a-spoon",
+    "title": "'In the Presence of a Spoon' by Karin Wells",
+    "creator": "Karin Wells",
+    "description": "Margot Bentley was diagnosed with Alzheimer’s disease in 1999, after writing a living will in 1991. Her daughter states in this radio documentary that her wish to be euthanized when she could no longer recognize her own family was not honoured by the court due to the fact she would open her mouth in the presence of a spoon while being fed.",
+    "type": "audio",
+    "year": 2015,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/3_audio/0_in-the-presence-of-a-spoon/karin-wells-blog-headline.jpeg",
+    "url": "https://assistedlab.ch/audio/in-the-presence-of-a-spoon"
+  },
+  {
+    "id": "last-cab-to-darwin",
+    "title": "'Last Cab to Darwin' by Jeremy Sims",
+    "creator": "Jeremy Sims (director and writer), Reg Cribb (writer)",
+    "description": "Loosely based on real events in the mid-1990s during a brief period when voluntary assisted dying was legal in Australia’s Northern Territory, this fiction film follows terminally ill taxi driver Rex as he drives 3,000km north to Darwin to try to become the first person in the world to die using an assisted dying machine.",
+    "type": "visual",
+    "year": 2015,
+    "status_context": null,
+    "countries": [
+      "Australia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_last-cab-to-darwin/outback-7529972_1280.jpg",
+    "url": "https://assistedlab.ch/visual/last-cab-to-darwin"
+  },
+  {
+    "id": "ma-verite-sur-l-affaire-vincent-lambert-by-eric-kariger",
+    "title": "‘Ma vérité sur l’affaire Vincent Lambert’ by Éric Kariger",
+    "creator": "Éric Kariger (with Philippe Demenet)",
+    "description": "In this short text, Vincent Lambert’s former physician, Éric Kariger, shares his version of the events that led to the ‘Vincent Lambert affair’, a legal and media storm that followed the decision to withdraw the interventions that were artificially sustaining Vincent’s life. In question-and-answer format, the text presents Kariger's truth, seeking to clear his name in the courts of public opinion.",
+    "type": "textual",
+    "year": 2015,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ma-verite-sur-l-affaire-vincent-lambert-by-eric-kariger/cedh_affaire_vincent_lambert_strasbourg_5_juin_2015-1.jpg",
+    "url": "https://assistedlab.ch/textual/ma-verite-sur-l-affaire-vincent-lambert-by-eric-kariger"
+  },
+  {
+    "id": "winter-in-gloster-huis-by-vonne-van-der-meer",
+    "title": "'Winter in Gloster Huis' by Vonne van der Meer",
+    "creator": "Vonne van der Meer",
+    "description": "In this novel set in 2024, the 'Done with Life Act' is law in the Netherlands, permitting assisted suicide for those who consider their lives complete. At the same time, two brothers receive a huge inheritance. One starts a farewell hotel, which facilitates a self-chosen death; the other starts an extended-stay hotel, where people are surrounded by care and attention until their natural passing.",
+    "type": "textual",
+    "year": 2015,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_winter-in-gloster-huis-by-vonne-van-der-meer/cover.jpg",
+    "url": "https://assistedlab.ch/textual/winter-in-gloster-huis-by-vonne-van-der-meer"
+  },
+  {
+    "id": "dead-at-noon",
+    "title": "'Dead at Noon' by Gillian Bennett",
+    "creator": "Gillian Bennett",
+    "description": "Gillian Bennett took her own life in 2014, 3 years after being diagnosed with dementia. She posted an open letter online explaining her reasons and hoping to reignite the debate about assisted dying in Canada. The law changed soon after.",
+    "type": "textual",
+    "year": 2014,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_dead-at-noon/picture_cmg.png",
+    "url": "https://assistedlab.ch/textual/dead-at-noon"
+  },
+  {
+    "id": "moeders-springen-niet-van-flats-by-elena-lindemans",
+    "title": "'Moeders springen niet van flats' by Elena Lindemans",
+    "creator": "Elena Lindemans (director)",
+    "description": "Filmmaker Elena Lindemans discusses her mother’s suicide with her sister, her mother’s partner, doctors and others. Her mother took her own life after doctors told her that her mental suffering did not meet the criteria for euthanasia. The documentary critiques the limited access to euthanasia for psychological reasons at the time of its production, despite having been legally possible since 2002.",
+    "type": "visual",
+    "year": 2014,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_moeders-springen-niet-van-flats-by-elena-lindemans/muntflats_heerenveen.jpg",
+    "url": "https://assistedlab.ch/visual/moeders-springen-niet-van-flats-by-elena-lindemans"
+  },
+  {
+    "id": "the-brittany-maynard-story-by-brittany-maynard",
+    "title": "‘The Brittany Maynard Story’ by Brittany Maynard",
+    "creator": "Brittany Maynard",
+    "description": "In this short video, 29-year-old Brittany Maynard shares her story of being diagnosed with terminal brain cancer and of moving to Oregon to access assisted dying. By making this video, Brittany sought to spark legislative change. Just one year after her death, California’s End of Life Option Act was signed into law, and her story continues to have an impact on assisted dying debates today.",
+    "type": "visual",
+    "year": 2014,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-brittany-maynard-story-by-brittany-maynard/brittany-and-charley.jpg",
+    "url": "https://assistedlab.ch/visual/the-brittany-maynard-story-by-brittany-maynard"
+  },
+  {
+    "id": "arbeit-und-struktur",
+    "title": "'Arbeit und Struktur' by Wolfgang Herrndorf",
+    "creator": "Wolfgang Herrndorf",
+    "description": "After being diagnosed with a malignant brain tumour, Wolfgang Herrndorf began writing a blog in 2010, in which he reflected on how he coped with the illness. Published as a book in 2013 following his suicide by firearm, the text has been interpreted as a forceful advocacy for the right to assisted dying and has been cited in political debates as a powerful plea by supporters of its legalisation.",
+    "type": "textual",
+    "year": 2013,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_arbeit-und-struktur/herrndorf-kreuz_nordufer_herrndorf.jpg",
+    "url": "https://assistedlab.ch/textual/arbeit-und-struktur"
+  },
+  {
+    "id": "donald-low-s-plea-for-assisted-suicide",
+    "title": "'In memory of Dr Donald Low' by Canadian Partnership Against Cancer",
+    "creator": "Canadian Partnership Against Cancer",
+    "description": "Donald Low, a Canadian physician and microbiologist, records a plea in favour of medical aid in dying after he was diagnosed with a brain tumour.",
+    "type": "visual",
+    "year": 2013,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_donald-low-s-plea-for-assisted-suicide/road.jpg",
+    "url": "https://assistedlab.ch/visual/donald-low-s-plea-for-assisted-suicide"
+  },
+  {
+    "id": "miele",
+    "title": "'Miele' by Valeria Golino",
+    "creator": "Valeria Golino (Director), Valia Santella (Writer)",
+    "description": "In Valeria Golino’s ‘Miele’, Irene illegally assists in the deaths of terminally ill individuals. Her understanding of her work is challenged, however, when she meets Carlo who wishes to die but is physically healthy. The film is more interested in Irene’s internal conflict than in advancing a position for or against assisted dying, yet it nonetheless explores various opinions and experiences.",
+    "type": "visual",
+    "year": 2013,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Italy"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_miele/palazzo_don.jpg",
+    "url": "https://assistedlab.ch/visual/miele"
+  },
+  {
+    "id": "amour",
+    "title": "'Amour' by Michael Haneke",
+    "creator": "Michael Haneke (director and writer)",
+    "description": "Diagnosed with a severe, neurodegenerative condition, Anne steadily declines into a state of near paralysis, leaving her entirely dependent on her husband, Georges, and the carers he employs. Following ever-increasing pressures on Georges, he makes the snap decision to suffocate his wife, in what is presented as a mercy killing, calling us to question the definition of an assisted death.",
+    "type": "visual",
+    "year": 2012,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_amour/amour.jpg",
+    "url": "https://assistedlab.ch/visual/amour"
+  },
+  {
+    "id": "de-goede-dood-by-wannie-de-wijn",
+    "title": "'De Goede Dood' by Wannie de Wijn",
+    "creator": "Wannie de Wijn (director)",
+    "description": "When Bernard, who suffers from lung cancer, chooses to have an assisted death, his decision exacerbates tensions within his family, who gather on his final day. This film portrays a range of human responses to assisted death, thereby exploring grief and inviting audiences to reflect on assisted death.",
+    "type": "visual",
+    "year": 2012,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_de-goede-dood-by-wannie-de-wijn/carl_schurz_playing_the_piano_for_president_hayes_and_his_family.jpg",
+    "url": "https://assistedlab.ch/visual/de-goede-dood-by-wannie-de-wijn"
+  },
+  {
+    "id": "quelques-heures-de-printemps",
+    "title": "'Quelques heures de printemps' by Stéphane Brizé",
+    "creator": "Stéphane Brizé (director and writer), Florence Vignon (writer)",
+    "description": "Following 18 months in prison, Alain goes to live with his elderly mother, who is living with cancer. Knowing that her cancer is progressing, Alain’s mother decides that she wants to end her life. Although he is initially sceptical, Alain decides to support her decision to end her life and travels with her to Switzerland, where their extremely tumultuous relationship is restored on her deathbed.",
+    "type": "visual",
+    "year": 2012,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_quelques-heures-de-printemps/quelques-heures-de-printemps.png",
+    "url": "https://assistedlab.ch/visual/quelques-heures-de-printemps"
+  },
+  {
+    "id": "the-life-and-death-of-gloria-taylor",
+    "title": "'The Life and Death of Gloria Taylor' by The Fifth Estate, CBC News",
+    "creator": "The Fifth Estate, CBC News",
+    "description": "This documentary follows the final year in the life Gloria Taylor, a plaintiff in the court case that led to the legalization of medical assistance in dying in Canada. The film provides an overview of debates prior to legalization by documenting Gloria’s experience with amyotrophic lateral sclerosis, her legal team’s approach, and the response of those who oppose her case.",
+    "type": "visual",
+    "year": 2012,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_the-life-and-death-of-gloria-taylor/scc-building.jpg",
+    "url": "https://assistedlab.ch/visual/the-life-and-death-of-gloria-taylor"
+  },
+  {
+    "id": "tot-altijd-by-nic-balthazar",
+    "title": "'Tot altijd' by Nic Balthazar",
+    "creator": "Nic Balthazar (director and writer)",
+    "description": "Multiple sclerosis patient Mario Verstraete is fighting for a legal regulation of assisted dying in Belgium. When the law does take effect in 2002, he is the first to use it. The feature film, which is based on the real life of the Belgian activist Mario Verstraete, provides an impression of the Belgian legislative process and was received by interest groups with both approval and criticism.",
+    "type": "visual",
+    "year": 2012,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_tot-altijd-by-nic-balthazar/tod-altijd-bild.png",
+    "url": "https://assistedlab.ch/visual/tot-altijd-by-nic-balthazar"
+  },
+  {
+    "id": "epilogue-by-manno-lanssens",
+    "title": "'Epilogue' by Manno Lanssens",
+    "creator": "Manno Lassens (director and writer)",
+    "description": "This documentary records the last seven months of Neel Couwel’s life – at 50 Neel, who was battling gastro and oesophageal cancer, decided to end her life through legal euthanasia. Through its intimate portrayal of how Neel and her family coped with the situation and her decision, ‘Epilogue’ encourages viewers to see euthanasia as a way to maintain dignity and comfort in one’s final moments.",
+    "type": "visual",
+    "year": 2011,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_epilogue-by-manno-lanssens/bild.jpg",
+    "url": "https://assistedlab.ch/visual/epilogue-by-manno-lanssens"
+  },
+  {
+    "id": "how-to-die-in-oregon",
+    "title": "'How to die in Oregon' by Peter Richardson",
+    "creator": "Peter Richardson (director)",
+    "description": "This documentary follows the stories of a number of individuals in Oregon who have chosen to, or are considering, making use of the state’s death with dignity law. Through these stories, it paints the legalization of assisted suicide in an extremely positive light, demonstrating the gratitude and relief of individuals who can legally access medications which will end their lives.",
+    "type": "visual",
+    "year": 2011,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_how-to-die-in-oregon/haystack_rock-_oregon.jpg",
+    "url": "https://assistedlab.ch/visual/how-to-die-in-oregon"
+  },
+  {
+    "id": "intouchables",
+    "title": "'Intouchables' by Olivier Nakache",
+    "creator": "Olivier Nakache (director and writer), Éric Toledano (director and writer), Philippe Pozzo di Borgo (writer)",
+    "description": "Based on a true story, this film recounts the unlikely friendship between Philippe, a very wealthy, widowed quadriplegic, and his hired caregiver Driss, a young man living in Paris’ poorer suburbs. As they get to know and come to trust one another, each shows the other something of his way of life, rekindling in the process his respective sense of purpose and joie de vivre.",
+    "type": "visual",
+    "year": 2011,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_intouchables/screenshot-2024-02-06-at-10.08.17am.png",
+    "url": "https://assistedlab.ch/visual/intouchables"
+  },
+  {
+    "id": "la-luz-dificil",
+    "title": "'La luz difícil' by Tomás González",
+    "creator": "Tomás González",
+    "description": "Suffering unbearable pain after a traffic accident left him paraplegic, Jacobo has decided to die in Oregon, where a doctor is willing to assist him; in the meantime, his Colombian-immigrant parents anxiously await news in NYC. Told from the perspective of the painter David, Jacobo's ageing father, González’s 2011 novel has sparked discussions about assisted dying in Colombia and beyond.",
+    "type": "textual",
+    "year": 2011,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Colombia",
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_la-luz-dificil/aria-ai-20250214-watercolor-from-gonzalez-ch2.jpg",
+    "url": "https://assistedlab.ch/textual/la-luz-dificil"
+  },
+  {
+    "id": "terry-pratchett-choosing-to-die",
+    "title": "'Terry Pratchett: Choosing to Die' by Charlie Russell",
+    "creator": "Charlie Russell (director), Terry Pratchett (writer)",
+    "description": "After being diagnosed with Alzheimer’s, renown author Terry Pratchett investigates in a television documentary the only assisted death option available to residents of the United Kingdom: travelling to Switzerland to seek the option through Dignitas.",
+    "type": "visual",
+    "year": 2011,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_terry-pratchett-choosing-to-die/picture1.jpg",
+    "url": "https://assistedlab.ch/visual/terry-pratchett-choosing-to-die"
+  },
+  {
+    "id": "you-don-t-know-jack",
+    "title": "'You Don't Know Jack' by Barry Levinson",
+    "creator": "Barry Levinson (director), Adam Mazer (writer)",
+    "description": "‘You Don’t Know Jack’ recounts the period in Dr. Jack Kevorkian’s life between 1990 when he assisted in the death of Janet Adkins and 1998 when, after assisting in over 100 deaths, he was convicted of second-degree murder for assisting in the death of Thomas Youk. The film portrays the controversial Kevorkian in a very flattering light, as an underdog and hero, and, above all, a caring doctor.",
+    "type": "visual",
+    "year": 2010,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_you-don-t-know-jack/jack_kevorkian_national_press_club.jpg",
+    "url": "https://assistedlab.ch/visual/you-don-t-know-jack"
+  },
+  {
+    "id": "guzaarish-by-sanjay-leela-bhansaali",
+    "title": "Guzaarish by Sanjay Leela Bhansaali",
+    "creator": "Sanjay Leela Bhansaali (Writer and Director)",
+    "description": "‘Guzaarish’ is a Bollywood film about Ethan Mascarenhas, a quadriplegic radio jockey who faces legal and public pushback after petitioning for state-sanctioned euthanasia. Structured around a legal battle, ‘Guzaarish’ is a comedy, romance, drama, and a musical starring two of Bollywood’s biggest stars. The film introduced India’s cinema-going audience to assisted death.",
+    "type": "visual",
+    "year": 2010,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "India"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_guzaarish-by-sanjay-leela-bhansaali/mahima-agarwal-twbj2xg-r_w-unsplash.jpg",
+    "url": "https://assistedlab.ch/visual/guzaarish-by-sanjay-leela-bhansaali"
+  },
+  {
+    "id": "accabadora",
+    "title": "'Accabadora' by Michela Murgia",
+    "creator": "Michela Murgia",
+    "description": "Michela Murgia’s novel ‘Accabadora’ follows Maria, a ‘soul-child’ informally adopted by Bonaria, a seamstress who is also a traditional Sardinian mercy-killer. Blending folklore with the post-war reality of the 1950s, the book explores motherhood, invisible female labour, and the ethics of euthanasia, and is often evoked in the contemporary Italian cultural and legal debate on assisted suicide.",
+    "type": "textual",
+    "year": 2009,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Italy"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_accabadora/biasi-c1919-processione.jpg",
+    "url": "https://assistedlab.ch/textual/accabadora"
+  },
+  {
+    "id": "bis-dass-der-tod",
+    "title": "'Bis dass der Tod' by Jens Petersen",
+    "creator": "Jens Petersen",
+    "description": "Nana is seriously ill and completely dependent on the care of her partner Alex. They leave the caravan where they live by car and stop in a field, where Alex kills Nana with a shot to the head, but subsequently fails to shoot himself as planned. The ending remains open, but it is suggested that Alex will take his own life after all.",
+    "type": "textual",
+    "year": 2009,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_bis-dass-der-tod/bis-dass-der-tod_neu.jpg",
+    "url": "https://assistedlab.ch/textual/bis-dass-der-tod"
+  },
+  {
+    "id": "del-otro-lado-del-jardin-by-carlos-framb",
+    "title": "'Del otro lado del jardín' by Carlos Framb",
+    "creator": "Carlos Framb",
+    "description": "After assisting in his mother Luzmila Alzate’s death in 2007 and unsuccessfully attempting suicide, the poet Carlos Framb found himself accused of homicide. This memoir recounts Framb’s legal saga, his relationship with his mother, and defends the right-to-die in the context of Colombia, that had decriminalized euthanasia in 1997 but not yet created guidelines for assisted dying.",
+    "type": "textual",
+    "year": 2009,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Colombia"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_del-otro-lado-del-jardin-by-carlos-framb/uncredited-luzmilaehijos-radio_ambulante-2015.jpg",
+    "url": "https://assistedlab.ch/textual/del-otro-lado-del-jardin-by-carlos-framb"
+  },
+  {
+    "id": "zondag-gaat-het-gebeuren-by-joeri-vlekken",
+    "title": "'Zondag gaat het gebeuren' by Joeri Vlekken",
+    "creator": "Joeri Vlekken (director)",
+    "description": "This award-winning documentary follows Carl Ridders, a 50-year-old Dutch-Belgian actor with ALS (Amyotrophic Lateral Sclerosis), in his final months before choosing assisted death. It captures theatrical photoshoots during which Carl was photographed by Lieve Blancquart. It subtly suggests assisted death as a way to preserve dignity and avoid suffering in one’s last moments.",
+    "type": "visual",
+    "year": 2009,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_zondag-gaat-het-gebeuren-by-joeri-vlekken/unbenannt.jpg",
+    "url": "https://assistedlab.ch/visual/zondag-gaat-het-gebeuren-by-joeri-vlekken"
+  },
+  {
+    "id": "a-good-way-to-die",
+    "title": "'A Good Way to Die?' by Tash Christie and Dan Salmon",
+    "creator": "Tash Christie & Dan Salmon (prods.), Andrew Merrifield (dir.)",
+    "description": "This mainstream documentary, produced when assisted dying was illegal in Aotearoa/New Zealand, follows the stories of four people who would like the option to end their lives on their own terms. Its idiosyncratic combination of confronting subject manner and light mood demonstrates the complexity of requests for assisted dying.",
+    "type": "visual",
+    "year": 2008,
+    "status_context": "Euthanasia",
+    "countries": [
+      "New Zealand"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_a-good-way-to-die/norfolk_island_philip_island3.jpg",
+    "url": "https://assistedlab.ch/visual/a-good-way-to-die"
+  },
+  {
+    "id": "griefwalker",
+    "title": "'Griefwalker' by Tim Wilson",
+    "creator": "Tim Wilson",
+    "description": "Griefwalker profiles Stephen Jenkinson as he leads a palliative care counselling team at Toronto's Mount Sinai Hospital. The film is a meditation on grief, the fear of death, and the failure of palliative care to address this fear as patients near death.",
+    "type": "visual",
+    "year": 2008,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_griefwalker/middle-fork-of-the-flathead-river.jpg",
+    "url": "https://assistedlab.ch/visual/griefwalker"
+  },
+  {
+    "id": "liebe-bis-in-den-tod",
+    "title": "'Liebe bis in den Tod' by Barbara Bronnen",
+    "creator": "Barbara Bronnen",
+    "description": "Emmanuel and Käthe Forster have been married for decades when Käthe asks her husband to help her die because she can no longer bear her life due to various diseases. Forster kills her with a shot to the head, but cannot bring himself to take his own life afterwards as planned. He has to stand trial for manslaughter, but Judge Joos releases him with a lenient sentence.",
+    "type": "textual",
+    "year": 2008,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_liebe-bis-in-den-tod/bronnen-2.jpg",
+    "url": "https://assistedlab.ch/textual/liebe-bis-in-den-tod"
+  },
+  {
+    "id": "tanner-geht-sterbehilfe-ein-mann-plant-seinen-tod",
+    "title": "'Tanner geht' by Wolfgang Prosinger",
+    "creator": "Wolfgang Prosinger",
+    "description": "51-year-old Ulrich Tanner, who lived in Cologne, suffered from various incurable diseases and took his own life in Switzerland with the help of the organisation Dignitas. Journalist Wolfgang Prosinger accompanied and interviewed Tanner in his last months and wrote a book about his life and his decision to commit assisted suicide.",
+    "type": "textual",
+    "year": 2008,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Germany",
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_tanner-geht-sterbehilfe-ein-mann-plant-seinen-tod/prosinger.jpg",
+    "url": "https://assistedlab.ch/textual/tanner-geht-sterbehilfe-ein-mann-plant-seinen-tod"
+  },
+  {
+    "id": "lettre-a-d-histoire-d-un-amour",
+    "title": "'Lettre à D. Histoire d’un amour' by André Gorz",
+    "creator": "André Gorz",
+    "description": "The social philosopher André Gorz cared for his ill wife Dorine for two decades. In 2007, they took their own lives together. A year earlier, Gorz had published a narrative public love letter to his wife which was subsequently read by both the media and assisted dying interest groups as a farewell letter and explanation of their motivation for suicide.",
+    "type": "textual",
+    "year": 2006,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_lettre-a-d-histoire-d-un-amour/gorz.jpg",
+    "url": "https://assistedlab.ch/textual/lettre-a-d-histoire-d-un-amour"
+  },
+  {
+    "id": "alices-reise-in-die-schweiz-by-lukas-barfuss",
+    "title": "'Alices Reise in die Schweiz. Szenen aus dem Leben des Sterbehelfers Gustav Strom' by Lukas Bärfuss",
+    "creator": "Lukas Bärfuss",
+    "description": "Zurich-based physician Gustav Strom assists individuals with mental illnesses, such as Alice from Germany, in ending their lives. The fact that criminal proceedings are being initiated against him only strengthens his resolve. The play has been received as an important contribution to the public debate, and praised for its ambivalent stance and critical examination of assisted dying.",
+    "type": "performative",
+    "year": 2005,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/4_performative/0_alices-reise-in-die-schweiz-by-lukas-barfuss/lukas_barfuss._2023-11-15.jpg",
+    "url": "https://assistedlab.ch/performative/alices-reise-in-die-schweiz-by-lukas-barfuss"
+  },
+  {
+    "id": "as-intermitencias-da-morte",
+    "title": "'As intermitências da morte' by José Saramago",
+    "creator": "José Saramago",
+    "description": "‘As intermitências da morte’ by Portuguese writer José Saramago explores the economic, political, religious, and ethical questions that would be raised if, suddenly, people stopped dying. Distinguishing between ‘to kill’ and ‘to give death’, this allegorical novel was invoked in the debate on the legalization of assisted dying in Portugal and of orthothanasia in Brazil.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Portugal"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_as-intermitencias-da-morte/stokes-1908-death_and_the_maiden.png",
+    "url": "https://assistedlab.ch/textual/as-intermitencias-da-morte"
+  },
+  {
+    "id": "cartas-desde-el-infierno",
+    "title": "'Cartas desde el infierno' by Ramón Sampedro",
+    "creator": "Ramón Sampedro",
+    "description": "A collection of letters, poems, and essays, Ramón Sampedro’s ‘Cartas desde el infierno’ constitutes a philosophical treatise on the ethics of euthanasia. Written over decades – between the 1968 accident that left Sampedro tetraplegic and the 1996 first edition – the book became a landmark work on the right-to-die debate, influencing the 2021 legalization of assisted death in Spain.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Spain"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_cartas-desde-el-infierno/sampedro-19960319-cartas_efe.jpg",
+    "url": "https://assistedlab.ch/textual/cartas-desde-el-infierno"
+  },
+  {
+    "id": "dies-irae",
+    "title": "'Dies Irae' by Danièle Saint-Bois",
+    "creator": "Danièle Saint-Bois",
+    "description": "Following two extremely difficult years suffering with cancer, artist Alicia D. decides she wants to end her life. With the help of her doctor and a nurse, who is also a love interest, Alicia receives an actively hastened death, beyond the provisions of the 2005 Leonetti Law.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_dies-irae/dies-irae-2.jpg",
+    "url": "https://assistedlab.ch/textual/dies-irae"
+  },
+  {
+    "id": "door-eigen-hand-zelfmoord-en-de-nabestaanden-by-joost-zwagerman",
+    "title": "'Door eigen hand. Zelfmoord en de nabestaanden' by Joost Zwagerman",
+    "creator": "Joost Zwagerman",
+    "description": "In this book of essays and interviews on suicide, writer Joost Zwagerman argues that medically assisted dying for psychological reasons is unwarranted. The author, who took his own life in 2015, has been a prominent voice in Dutch discourse surrounding this issue.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_door-eigen-hand-zelfmoord-en-de-nabestaanden-by-joost-zwagerman/joost_zwagerman.jpg",
+    "url": "https://assistedlab.ch/textual/door-eigen-hand-zelfmoord-en-de-nabestaanden-by-joost-zwagerman"
+  },
+  {
+    "id": "los-by-tom-naegels",
+    "title": "'Los' by Tom Naegels",
+    "creator": "Tom Naegels",
+    "description": "Antwerp journalist Tom’s grandfather, Bob, has cancer and would like to receive euthanasia. However, he does not meet the criteria of hopeless and unbearable suffering set by Belgian law. Although Tom and his mother advocate for Bob’s right to self-determination, this has little effect. The novel provides a critical reflection of the criteria outlined in Belgian euthanasia law.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_los-by-tom-naegels/los_image.jpg",
+    "url": "https://assistedlab.ch/textual/los-by-tom-naegels"
+  },
+  {
+    "id": "schlemm",
+    "title": "'Schlemm' by Nicola Bardola",
+    "creator": "Nicola Bardola",
+    "description": "The elderly spouses Paul and Franca Salamun have decided to die together with the help of an assisted dying organisation. Paul suffers from bladder cancer, Franca is tired of living and does not want to stay behind without her husband. Although their son Luca can understand the decision, it is difficult for him to find a way to emotionally process her death.",
+    "type": "textual",
+    "year": 2005,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_schlemm/schlemm_lexika.jpg",
+    "url": "https://assistedlab.ch/textual/schlemm"
+  },
+  {
+    "id": "je-ne-suis-pas-un-assassin",
+    "title": "'Je ne suis pas un assassin' by Frédéric Chaussoy",
+    "creator": "Frédéric Chaussoy",
+    "description": "Dr Frédéric Chaussoy, the intensivist who made the decision to turn off Vincent Humbert’s life support machine, shares his story in this short, powerful text. Blending a first-person account of the events leading up to Vincent’s death with engaged writing and insights from Chaussoy's family, the text is an ardent defence of the doctor’s actions and calls France to do better at accompanying death.",
+    "type": "textual",
+    "year": 2004,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_je-ne-suis-pas-un-assassin/courtroom-gavel.jpg",
+    "url": "https://assistedlab.ch/textual/je-ne-suis-pas-un-assassin"
+  },
+  {
+    "id": "manon-le-dernier-droit",
+    "title": "'Manon: Le Dernier Droit' by André Saint-Pierre et. al",
+    "creator": "André Saint-Pierre, Benoît Dutrizac, Marie-Josée Lévesque, et al.",
+    "description": "After battling multiple sclerosis for much of her life, Manon Brunelle attempted to take her life herself. After this unsuccessful attempt, the documentary tells the story of why she is choosing to end her life in Switzerland through the organization Dignitas.",
+    "type": "visual",
+    "year": 2004,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_manon-le-dernier-droit/picture1.jpg",
+    "url": "https://assistedlab.ch/visual/manon-le-dernier-droit"
+  },
+  {
+    "id": "mar-adentro",
+    "title": "'Mar adentro' by Alejandro Amenábar",
+    "creator": "Alejandro Amenábar (director and writer), Mateo Gil (writer)",
+    "description": "For almost thirty years, Ramón Sampedro has been paralysed from the neck down. Having had enough of his paraplegic state, Ramón decides that he wants to die and seeks the help of an assisted dying lobby group to generate support for his case. When all legal avenues fail, a small group of his friends help Ramón to end his life.",
+    "type": "visual",
+    "year": 2004,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Spain"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_mar-adentro/2014_a_ramon_sampedro._praia_das_furnas._porto_do_son._galiza._nacho_costa_beiro-f4.jpg",
+    "url": "https://assistedlab.ch/visual/mar-adentro"
+  },
+  {
+    "id": "million-dollar-baby",
+    "title": "'Million Dollar Baby' by Clint Eastwood",
+    "creator": "Clint Eastwood (director and producer), Paul Haggis (screenwriter)",
+    "description": "In this sports drama, Maggie Fitzgerald rises through the boxing ranks with the guidance of trainer Frankie Dunn and his long-time friend Scrap before becoming a quadriplegic from an injury sustained in a fight. The film garnered critical acclaim and won four Academy Awards, including for Best Picture, but drew criticism from disability rights activists for its portrayal of disability.",
+    "type": "visual",
+    "year": 2004,
+    "status_context": null,
+    "countries": [
+      "United States"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_million-dollar-baby/women-training-boxing.jpg",
+    "url": "https://assistedlab.ch/visual/million-dollar-baby"
+  },
+  {
+    "id": "simon-by-eddy-terstall",
+    "title": "'Simon' by Eddy Terstall",
+    "creator": "Eddy Terstall (director and writer)",
+    "description": "Free-spirited Amsterdam resident Simon suffers from cancer and requests euthanasia, which is possible under Dutch law. The doctor complies with Simon’s request. The film represents euthanasia as one of the major achievements of a free and liberal society, with several progressive politicians citing it as a reflection of Dutch freedoms and values.",
+    "type": "visual",
+    "year": 2004,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_simon-by-eddy-terstall/keizersgracht-reguliersgracht-amsterdam.jpg",
+    "url": "https://assistedlab.ch/visual/simon-by-eddy-terstall"
+  },
+  {
+    "id": "je-vous-demande-le-droit-de-mourir",
+    "title": "'Je vous demande le droit de mourir' by Vincent Humbert",
+    "creator": "Vincent Humbert (with Frédéric Veille)",
+    "description": "Following a life-changing accident, which left Vincent Humbert paraplegic, blind and mute, the young man decided that he wanted to end his life and wrote to the French President in search of help. This text is his story, one of the most significant in the history of the assisted dying debate in France.",
+    "type": "textual",
+    "year": 2003,
+    "status_context": "Refusal of treatment",
+    "countries": [
+      "France"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_je-vous-demande-le-droit-de-mourir/s-l1600.jpg",
+    "url": "https://assistedlab.ch/textual/je-vous-demande-le-droit-de-mourir"
+  },
+  {
+    "id": "komt-een-vrouw-bij-de-dokter-by-kluun",
+    "title": "'Komt een vrouw bij de dokter' by Kluun",
+    "creator": "Kluun",
+    "description": "In this novel, Stijn, a wealthy and successful man in advertising, struggles to cope with his wife Carmen’s cancer diagnosis and illness, and ultimately begins a passionate affair with another woman. As Carmen chooses to end her life, assisted death is one of the novel’s topics; yet, readers and viewers of the film adaptation had more to say about Stijn’s behaviour and actions than Carmen’s.",
+    "type": "textual",
+    "year": 2003,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_komt-een-vrouw-bij-de-dokter-by-kluun/cinerama_komt_een_vrouw_bij_de_dokter.jpg",
+    "url": "https://assistedlab.ch/textual/komt-een-vrouw-bij-de-dokter-by-kluun"
+  },
+  {
+    "id": "les-invasions-barbares",
+    "title": "'Les Invasions barbares' by Denys Arcand",
+    "creator": "Denys Arcand (director and writer)",
+    "description": "In the absence of adequate palliative pain relief and palliative care provision, Rémy begins taking heroin to combat his cancer-induced suffering. As his condition deteriorates, he decides that he wants to end his life. With the help of his family and friends, he is given an overdose of heroin and passes away peacefully with his family around him.",
+    "type": "visual",
+    "year": 2003,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_les-invasions-barbares/drip-stand-fluids.jpg",
+    "url": "https://assistedlab.ch/visual/les-invasions-barbares"
+  },
+  {
+    "id": "exit-by-benjamin-kempf",
+    "title": "'Exit' by Benjamin Kempf",
+    "creator": "Benjamin Kempf (director) and Jann Preuss (writer)",
+    "description": "Erika who suffers from cancer and her healthy husband Ruedi wish to die together by assisted suicide. When the lethal drug is ready, Ruedi is overcome with doubt, and the two argue. Ruedi ultimately drinks the deadly substance as well and lies down in bed with his wife. This short film, the first to explore double suicide in organised assisted suicide in Switzerland, is highly ambivalent.",
+    "type": "visual",
+    "year": 2002,
+    "status_context": "Assisted Suicide",
+    "countries": [
+      "Switzerland"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_exit-by-benjamin-kempf/keller_cover-1.jpg",
+    "url": "https://assistedlab.ch/visual/exit-by-benjamin-kempf"
+  },
+  {
+    "id": "chronique-d-une-mort-decidee",
+    "title": "'Chronique d’une mort décidée' by Vincent Fooij",
+    "creator": "Vincent Fooij (director), Jean-Marie Lorand (writer)",
+    "description": "During the last three weeks of his life, former journalist and parliamentary aide, turned assisted dying activist, Jean-Marie Lorand invited filmmaker Vincent Fooij into his home to make a final, documentary testimony of his life. The film attests to Lorand’s physical, mental and emotional suffering and serves as a justification for his much-longed-for assisted death.",
+    "type": "visual",
+    "year": 2000,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_chronique-d-une-mort-decidee/camera-j-ml.jpg",
+    "url": "https://assistedlab.ch/visual/chronique-d-une-mort-decidee"
+  },
+  {
+    "id": "ik-omhels-je-met-duizend-armen-by-ronald-giphart",
+    "title": "'Ik omhels je met duizend armen' by Ronald Giphart",
+    "creator": "Ronald Giphart",
+    "description": "A woman suffering from multiple sclerosis seeks euthanasia. Her son Giph, a writer, recounts the decision-making process and how doctors perform the act during a period when there was no law yet, but they were permitted to do so without risking prosecution. The novel presents an ambivalent perspective on autonomy and dependency, but ultimately offers a distinctly positive view of assisted dying.",
+    "type": "textual",
+    "year": 2000,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ik-omhels-je-met-duizend-armen-by-ronald-giphart/giphart_image.jpg",
+    "url": "https://assistedlab.ch/textual/ik-omhels-je-met-duizend-armen-by-ronald-giphart"
+  },
+  {
+    "id": "ma-derniere-liberte-journal-d-une-mort-decidee",
+    "title": "'Ma dernière liberté: Journal d’une mort décidée' by Jean-Marie Lorand",
+    "creator": "Jean-Marie Lorand",
+    "description": "This text is a published version of the diary kept by former journalist and parliamentary aide, turned assisted dying activist, Jean-Marie Lorand during the last months of his life. Lorand was an influential figure in public debate and his testimony was shared during the hearings in the Belgian Senate prior to the introduction of the country’s Act on Euthanasia (2002).",
+    "type": "textual",
+    "year": 2000,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Belgium"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ma-derniere-liberte-journal-d-une-mort-decidee/belgian-senate.jpg",
+    "url": "https://assistedlab.ch/textual/ma-derniere-liberte-journal-d-une-mort-decidee"
+  },
+  {
+    "id": "het-refrein-is-hein-dagen-uit-een-verpleeghuis-by-bert-keizer",
+    "title": "'Het refrein is Hein. Dagen uit een verpleeghuis' by Bert Keizer",
+    "creator": "Bert Keizer",
+    "description": "In Het refrein is Hein by Bert Keizer, Anton, a physician in the nursing home De Liefdeberg, describes his daily interactions with colleagues, and patients and their loved ones. Anton provides an unvarnished look at ageing, suffering, and the inevitability of death while reflecting, and in turn inviting the reader to reflect, on ethical dilemmas such as that of assisted dying.",
+    "type": "textual",
+    "year": 1994,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Netherlands"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_het-refrein-is-hein-dagen-uit-een-verpleeghuis-by-bert-keizer/0d634d89-e793-4178-a996-10995a7d41b5.jpg",
+    "url": "https://assistedlab.ch/textual/het-refrein-is-hein-dagen-uit-een-verpleeghuis-by-bert-keizer"
+  },
+  {
+    "id": "a-message-from-sue-rodriguez",
+    "title": "'A Message to the Standing Committee on Justice and Solicitor General' by Sue Rodriguez",
+    "creator": "Sue Rodriguez",
+    "description": "In this videotaped address to Parliament, Sue Rodriguez, who was dying of ALS and wanted an assisted death, asks ‘If I cannot give consent to my own death […] who owns my life?’ While the Supreme Court of Canada heard her case in 1993 and ultimately decided against her, the publicization of Rodriguez’s story informed much public thinking about assisted dying laws in Canada.",
+    "type": "visual",
+    "year": 1992,
+    "status_context": null,
+    "countries": [
+      "Canada"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_a-message-from-sue-rodriguez/1003832196-disc001-file001-frame00180-size-original.jpg",
+    "url": "https://assistedlab.ch/visual/a-message-from-sue-rodriguez"
+  },
+  {
+    "id": "ana-photographs",
+    "title": "'Ana' photographs by Jessica Alva Piedra",
+    "creator": "Jessica Alva Piedra",
+    "description": "Between 2019 and 2020, the Peruvian photographer Jessica Alva Piedra collaborated with the psychologist Ana Estrada to portray Estrada’s life with polymyositis and in palliative care. The resulting photos, a testimony to Estrada’s agency to represent her own body while advocating for the right to die, appeared in Estrada’s blog, in a photobook, and in media outlets around the world.",
+    "type": "visual",
+    "year": -2020,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Peru"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/2_visual/0_ana-photographs/piedra-201910-foto_ana_estrada.jpg",
+    "url": "https://assistedlab.ch/visual/ana-photographs"
+  },
+  {
+    "id": "ana-blog",
+    "title": "'Ana' blog by Ana Estrada",
+    "creator": "Ana Estrada",
+    "description": "From 2019 to 2024, the personal blog of the psychologist Ana Estrada, typed with the one finger she could move, became a focal point of the debate on assisted dying in Peru. A chronicle of Estrada’s life with polymyositis and in palliative care, the blog supported her successful appeal for the right to die, creating a legal precedent in her country and sparking discussion far beyond.",
+    "type": "textual",
+    "year": -2024,
+    "status_context": "Euthanasia",
+    "countries": [
+      "Peru"
+    ],
+    "thumbnail": "../../Projects/assisted-map/backend-extract/content/1_textual/0_ana-blog/piedra-2019-foto_estrada.jpg",
+    "url": "https://assistedlab.ch/textual/ana-blog"
+  }
+]
