@@ -1,6 +1,6 @@
 # Source data — not for version control
-data/**/*.xlsx
 data/*.xlsx
+data/research/
 data/archive.csv
 
 # Kirby backend export — local source content
