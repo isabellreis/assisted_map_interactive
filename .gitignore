@@ -1,13 +1,16 @@
 # Source data — not for version control
-data/*.xlsx
-data/research/
-data/archive.csv
+_data/*.xlsx
+_data/research/
+_data/archive.csv
 
 # Kirby backend export — local source content
 backend-extract/
 
+# Notes - Claude handovers, instructions, backend extract 
+_notes/
+
 # Brand fonts — proprietary, not for version control
-assets/fonts/
+_assets/fonts/
 
 # macOS
 .DS_Store

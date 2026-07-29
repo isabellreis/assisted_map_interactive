@@ -4,18 +4,6 @@ An interactive prototype for [assistedlab.ch](https://assistedlab.ch) showing tw
 
 ---
 
-## How to run locally
-
-The app uses `fetch()` for data files, so it needs a local server (not `file://`):
-
-```bash
-python3 -m http.server 8080
-```
-
-Then open `http://localhost:8080`.
-
----
-
 ## How to use the map
 
 ### The three modes (right panel → Show)
@@ -51,13 +39,74 @@ In Archive mode, clicking filters the archive grid to that country's entries.
 
 ---
 
-## Data pipeline
+## TODO
+
+### Map
+
+- [ ] Double check how legal status is selected
+- [ ] Work on prioritization logic for unclear / illegal
+- [ ] Change how map deals with NAs
+- [ ] Update Info Panel
+
+### Data
+
+- [ ] Go over caveats and double check new entries
+- [ ] Standardize labels
+- [ ] Decide on which legislative changes should be included
+- [ ] Add northern territories
+- [ ] Research Africa
+
+---
+
+## File structure
+
+```
+├── index.html              # App shell
+├── style.css               # All styling (fonts, layout, card design)
+├── app.js                  # All application logic (Leaflet + D3)
+├── _assets/
+│   └── fonts/              # Brand fonts (not in version control — see below)
+├── _scripts/
+│   ├── preprocessing_long.R    # Google Sheet → GeoJSON
+│   ├── kirby_to_archive.js     # Kirby backend → archive.json
+│   └── csv_to_archive.js       # CSV → archive.json (fallback)
+├── _data/                  # Generated files — not in version control
+│   ├── world_joined.geojson
+│   ├── world_countries.geojson
+│   └── archive.json
+├── _notes/                 # Developer and handoff notes
+│   ├── dev-notes.md            # Kirby CMS embedding notes
+│   ├── assisted-lab-map-spec.md
+│   └── claude-code-handoff.md
+└── backend-extract/        # Kirby content export — not in version control
+    └── content/            # Entry .txt files and cover images
+```
+
+**Fonts:** `_assets/fonts/` is gitignored. Copy the five `.woff2` files from the Kirby backend (`assets/`) into this folder before running locally.
+
+---
+
+<details>
+<summary>How to run locally</summary>
+
+The app uses `fetch()` for data files, so it needs a local server (not `file://`):
+
+```bash
+python3 -m http.server 8080
+```
+
+Then open `http://localhost:8080`.
+
+</details>
+
+<details>
+<summary>Data pipeline</summary>
 
 ### Legislation — R script
 
 **Source:** Google Sheet (maintained by the Assisted Lab team)  
-**Script:** `scripts/preprocessing_long.R`  
-**Output:** `data/world_joined.geojson`, `data/world_countries.geojson`
+**Script:** `_scripts/preprocessing_long.R`  
+**Output:** `_data/world_joined.geojson`, `_data/world_countries.geojson`
 
 The sheet has four tabs: `world`, `us_states`, `canada_states`, `australia_states`. Each row is one legal event for a jurisdiction × domain combination.
 
@@ -68,62 +117,28 @@ The sheet has four tabs: `world`, `us_states`, `canada_states`, `australia_state
 
 To regenerate after a sheet update (run from project root):
 ```bash
-Rscript scripts/preprocessing_long.R
+Rscript _scripts/preprocessing_long.R
 ```
 Requires `googlesheets4` auth — run `Rscript -e 'googlesheets4::gs4_auth()'` once first.
 
 ### Archive — Kirby backend parser
 
 **Source:** `backend-extract/content/` (Kirby flat-file export, not in version control)  
-**Script:** `scripts/kirby_to_archive.js`  
-**Output:** `data/archive.json`
+**Script:** `_scripts/kirby_to_archive.js`  
+**Output:** `_data/archive.json`
 
 To regenerate after content changes (run from project root):
 ```bash
-node scripts/kirby_to_archive.js
+node _scripts/kirby_to_archive.js
 ```
 
 Current distribution: 131 entries across 34 countries. Highest counts: Canada (27), Switzerland (20), France and Netherlands (11 each).
 
 ### Archive — CSV fallback
 
-If you have a flat `data/archive.csv` instead of the Kirby backend:
+If you have a flat `_data/archive.csv` instead of the Kirby backend:
 ```bash
-node scripts/csv_to_archive.js
+node _scripts/csv_to_archive.js
 ```
 
----
-
-## File structure
-
-```
-├── index.html              # App shell
-├── style.css               # All styling (fonts, layout, card design)
-├── app.js                  # All application logic (Leaflet + D3)
-├── assets/
-│   └── fonts/              # Brand fonts (not in version control — see below)
-├── scripts/
-│   ├── preprocessing_long.R    # Google Sheet → GeoJSON
-│   ├── kirby_to_archive.js     # Kirby backend → archive.json
-│   └── csv_to_archive.js       # CSV → archive.json (fallback)
-├── data/                   # Generated files — not in version control
-│   ├── world_joined.geojson
-│   ├── world_countries.geojson
-│   └── archive.json
-└── backend-extract/        # Kirby content export — not in version control
-    └── content/            # Entry .txt files and cover images
-```
-
-**Fonts:** `assets/fonts/` is gitignored. Copy the five `.woff2` files from the Kirby backend (`assets/`) into this folder before running locally.
-
----
-
-## Notes for the dev team (Kirby CMS embedding)
-
-1. **Data files** (`world_joined.geojson`, `world_countries.geojson`, `archive.json`) need to be served alongside the app. At ~15 MB combined, consider serving from a CDN.
-
-2. **The map container** requires a fixed height. Current layout uses `58vh` for the map row and `flex: 1` for the archive grid. Adjust `#map-area` in `style.css` to fit the page template.
-
-3. **Live archive data.** `archive.json` is currently a static export. For live deployment, a Kirby plugin could generate this JSON on the fly. Expected fields per entry: `id`, `title`, `creator`, `description`, `type`, `year`, `countries`, `thumbnail`, `url`.
-
-4. **Legislation updates** require re-running the R script and redeploying the two GeoJSON files — there is no live connection to the Google Sheet.
+</details>
