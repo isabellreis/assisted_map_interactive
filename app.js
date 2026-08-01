@@ -45,9 +45,9 @@ const archiveCounts = {}; // GeoJSON subdivision feature name → effective coun
 // ---- Bootstrap ----
 async function init() {
   [geoData, countriesData, archiveData] = await Promise.all([
-    fetch('data/world_joined.geojson').then(r => r.json()),
-    fetch('data/world_countries.geojson').then(r => r.json()),
-    fetch('data/archive.json').then(r => r.json()),
+    fetch('_data/world_joined.geojson').then(r => r.json()),
+    fetch('_data/world_countries.geojson').then(r => r.json()),
+    fetch('_data/archive.json').then(r => r.json()),
   ]);
 
   // Raw counts by CSV leg_country name
