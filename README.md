@@ -121,6 +121,16 @@ Rscript _scripts/preprocessing_long.R
 ```
 Requires `googlesheets4` auth — run `Rscript -e 'googlesheets4::gs4_auth()'` once first.
 
+**Category selection logic:** each jurisdiction gets one map `category`, chosen per domain (Euthanasia / Assisted Suicide / Refusal of Treatment) by taking the latest dated `law`/`amendment`/`court ruling`/`none` entry (`proposal` rows never count), falling back to an undated status if that's all there is. The three domain statuses are then collapsed by permissiveness, first match wins:
+
+1. Euthanasia legal → **Euthanasia**
+2. else Assisted Suicide legal → **Assisted Suicide**
+3. else Refusal of Treatment legal → **Refusal of treatment**
+4. else Euthanasia and Assisted Suicide both illegal but Refusal of Treatment has no data → **Unclear / in debate**
+5. else any domain illegal → **Illegal**
+6. else any domain unclear → **Unclear / in debate**
+7. else no data → blank
+
 ### Archive — Kirby backend parser
 
 **Source:** `backend-extract/content/` (Kirby flat-file export, not in version control)  

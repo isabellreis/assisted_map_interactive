@@ -16,8 +16,9 @@ df_au_long    <- read_sheet(sheet_url, sheet = "australia_states") %>% clean_nam
 
 ## ---- shared constants ----
 
-# leg_types that count toward "current" legal status (proposals don't confer status)
-current_leg_types <- c("law", "amendment", "court ruling")
+# leg_types that count toward "current" legal status (proposals don't confer status;
+# "none" does count — e.g. a dated "no specific law, status unclear" entry)
+current_leg_types <- c("law", "amendment", "court ruling", "none")
 
 # standardize ad_type naming: "Assisted Dying" (source data) -> "Assisted Suicide" (map legend)
 standardize_ad_type <- function(x) {
@@ -62,6 +63,9 @@ process_long_sheet <- function(df) {
         isTRUE(Euthanasia == 1) ~ "Euthanasia",
         isTRUE(`Assisted Suicide` == 1) ~ "Assisted Suicide",
         isTRUE(`Refusal of Treatment` == 1) ~ "Refusal of treatment",
+        # Euthanasia/Assisted Suicide both illegal but RoT status unknown -> unclear, not illegal
+        isTRUE(Euthanasia == 0) && isTRUE(`Assisted Suicide` == 0) &&
+          is.na(`Refusal of Treatment`) ~ "Unclear / in debate",
         any(c(Euthanasia, `Assisted Suicide`, `Refusal of Treatment`) == 0, na.rm = TRUE) ~ "Illegal",
         any(c(Euthanasia, `Assisted Suicide`, `Refusal of Treatment`) == 2, na.rm = TRUE) ~ "Unclear / in debate",
         TRUE ~ NA_character_
@@ -150,7 +154,7 @@ australia_states <- australia_states %>% select(all_of(common_cols))
 
 world_joined <- rbind(world, us_states, canada_states, australia_states)
 
-st_write(world_joined, "data/world_joined.geojson", delete_dsn = TRUE)
+st_write(world_joined, "_data/world_joined.geojson", delete_dsn = TRUE)
 
 ## ---- country-level GeoJSON for Archive heatmap ----
 ## Keeps US, Canada, Australia as whole-country shapes (not split into states)
@@ -158,4 +162,4 @@ world_countries <- ne_countries(scale = "medium", returnclass = "sf") %>%
   left_join(df_world, by = c("name" = "jurisdiction")) %>%
   select(any_of(c("name", "admin", "category", "has_proposal", "entries_json")))
 
-st_write(world_countries, "data/world_countries.geojson", delete_dsn = TRUE)
+st_write(world_countries, "_data/world_countries.geojson", delete_dsn = TRUE)
