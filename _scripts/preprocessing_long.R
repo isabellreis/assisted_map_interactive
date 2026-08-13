@@ -14,6 +14,20 @@ df_us_long    <- read_sheet(sheet_url, sheet = "us_states") %>% clean_names()
 df_ca_long    <- read_sheet(sheet_url, sheet = "canada_states") %>% clean_names()
 df_au_long    <- read_sheet(sheet_url, sheet = "australia_states") %>% clean_names()
 
+## google sheets returns `year`/`status` as list-columns when a tab mixes cell
+## types across rows; a blank cell then becomes NULL, not NA, which silently
+## breaks is.na()/filter() downstream. Flatten both to plain atomic doubles.
+flatten_num <- function(x) {
+  if (!is.list(x)) return(as.numeric(x))
+  vapply(x, function(v) if (length(v)) as.numeric(v[[1]]) else NA_real_, numeric(1))
+}
+for (nm in c("df_world_long", "df_us_long", "df_ca_long", "df_au_long")) {
+  df <- get(nm)
+  df$year <- flatten_num(df$year)
+  df$status <- flatten_num(df$status)
+  assign(nm, df)
+}
+
 ## ---- shared constants ----
 
 # leg_types that count toward "current" legal status (proposals don't confer status;
