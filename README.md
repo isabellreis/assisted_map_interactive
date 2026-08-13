@@ -126,7 +126,7 @@ Requires `googlesheets4` auth — run `Rscript -e 'googlesheets4::gs4_auth()'` o
 1. Euthanasia legal → **Euthanasia**
 2. else Assisted Suicide legal → **Assisted Suicide**
 3. else Refusal of Treatment legal → **Refusal of treatment**
-4. else Euthanasia and Assisted Suicide both illegal but Refusal of Treatment has no data → **Unclear / in debate**
+4. else Refusal of Treatment has no data (and Euthanasia/Assisted Suicide aren't *both* also undocumented) → **Unclear / in debate**
 5. else any domain illegal → **Illegal**
 6. else any domain unclear → **Unclear / in debate**
 7. else no data → blank

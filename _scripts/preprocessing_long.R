@@ -63,9 +63,9 @@ process_long_sheet <- function(df) {
         isTRUE(Euthanasia == 1) ~ "Euthanasia",
         isTRUE(`Assisted Suicide` == 1) ~ "Assisted Suicide",
         isTRUE(`Refusal of Treatment` == 1) ~ "Refusal of treatment",
-        # Euthanasia/Assisted Suicide both illegal but RoT status unknown -> unclear, not illegal
-        isTRUE(Euthanasia == 0) && isTRUE(`Assisted Suicide` == 0) &&
-          is.na(`Refusal of Treatment`) ~ "Unclear / in debate",
+        # RoT status unknown (and not just because nothing is documented at all) -> unclear, not illegal
+        is.na(`Refusal of Treatment`) &&
+          !(is.na(Euthanasia) && is.na(`Assisted Suicide`)) ~ "Unclear / in debate",
         any(c(Euthanasia, `Assisted Suicide`, `Refusal of Treatment`) == 0, na.rm = TRUE) ~ "Illegal",
         any(c(Euthanasia, `Assisted Suicide`, `Refusal of Treatment`) == 2, na.rm = TRUE) ~ "Unclear / in debate",
         TRUE ~ NA_character_
