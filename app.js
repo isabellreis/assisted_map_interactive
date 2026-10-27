@@ -114,7 +114,7 @@ function initMap() {
   leafletMap = L.map('map', { minZoom: 1, maxBoundsViscosity: 1.0 });
 
   // ponytail: CartoDB Positron no-labels — swap URL here for a different tile style
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png?key=cb1_4w13_1_149afff733f16a86ba71e55a', {
     attribution:
       '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' +
       ' © <a href="https://carto.com/attributions">CARTO</a>',
@@ -216,8 +216,8 @@ function buildLegend() {
 
 // ---- Help Panel ----
 const HELP_TEXT = {
-  Proposals: 'Highlighted countries have an active legislative proposal. Click a country to open its legal history.',
-  Archive:   'Shade shows how many archive entries originate from each country — darker means more. Click a country to filter the archive grid below.',
+  Proposals: 'Highlighted countries have an active legislative proposal. Click a country to open its legal history. Please note: The map gets updated quarterly and may not be complete or up-to-date.',
+  Archive:   'Shade shows how many archive entries originate from each country. Click a country to filter the archive grid below.',
 };
 
 const LEGISLATION_DEFS = [
@@ -227,7 +227,7 @@ const LEGISLATION_DEFS = [
   },
   {
     category: 'Assisted Suicide',
-    text: 'A medical professional provides the means — usually a prescription — but the patient administers it themselves.',
+    text: 'A medical professional provides the means, e.g., a prescription, but the patient administers it themselves.',
   },
   {
     category: 'Refusal of treatment',
@@ -240,7 +240,7 @@ function buildHelpPanel() {
 
   if (state.show === 'Legislation') {
     panel.append('p').attr('class', 'help-intro')
-      .text('Colour shows the most permissive status documented — a jurisdiction may have legislation across several domains. Click a country for the full picture.');
+      .text('Colour shows the most permissive status documented. Click a country for the full picture. Please note: The map gets updated quarterly and may not be complete or up-to-date.');
 
     const defs = panel.append('dl').attr('class', 'help-defs');
     LEGISLATION_DEFS.forEach(({ category, text }) => {

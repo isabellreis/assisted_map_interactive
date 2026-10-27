@@ -43,10 +43,10 @@ In Archive mode, clicking filters the archive grid to that country's entries.
 
 ### Map
 
-- [ ] Double check how legal status is selected
-- [ ] Work on prioritization logic for unclear / illegal
-- [ ] Change how map deals with NAs
-- [ ] Update Info Panel
+- [x] Double check how legal status is selected
+- [x] Work on prioritization logic for unclear / illegal
+- [x] Change how map deals with NAs
+- [x] Update Info Panel
 
 ### Data
 
