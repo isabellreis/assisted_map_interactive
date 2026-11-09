@@ -146,7 +146,7 @@ Current distribution: 131 entries across 34 countries. Highest counts: Canada (2
 
 ### Archive — CSV fallback
 
-If you have a flat `_data/archive.csv` instead of the Kirby backend:
+To build the archive JSON from the CSV produced by `assisted_scrape` (at `../_data/all_entries.csv`):
 ```bash
 node _scripts/csv_to_archive.js
 ```

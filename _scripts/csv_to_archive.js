@@ -1,13 +1,13 @@
-// Converts data/archive.csv -> data/archive.json
-// Run: node scripts/csv_to_archive.js  (from project root)
+// Converts the shared scraped archive CSV -> _data/archive.json
+// Run: node _scripts/csv_to_archive.js  (from project root)
 
 'use strict';
 const fs = require('fs');
 const path = require('path');
 
-const CSV_PATH  = path.join(__dirname, '../data/archive.csv');
-const GEO_PATH  = path.join(__dirname, '../data/world_joined.geojson');
-const OUT_PATH  = path.join(__dirname, '../data/archive.json');
+const CSV_PATH  = path.join(__dirname, '../../_data/all_entries.csv');
+const GEO_PATH  = path.join(__dirname, '../_data/world_joined.geojson');
+const OUT_PATH  = path.join(__dirname, '../_data/archive.json');
 
 function parseCSV(text) {
   const rows = []; let row = [], field = '', inQuote = false;
@@ -40,21 +40,26 @@ geo.features.forEach(f => {
 
 const rows = parseCSV(fs.readFileSync(CSV_PATH, 'utf8'));
 
-const archive = rows.map(r => ({
-  id:             r.entry_id,
-  title:          r.title,
-  creator:        r.author,
-  description:    r.summary,
-  type:           r.primary_category,   // textual / visual / audio / performative
-  subtype:        r.type,               // film / documentary / fiction / prose / etc.
-  year:           r.year ? parseInt(r.year) : null,
-  status_context: categoryByCountry[r.leg_country] || null,
-  countries:      r.leg_country ? [r.leg_country] : [],
-  thumbnail:      null,
-  url:            r.url,
-  leg_text:       r.leg_text,
-  leg_link:       r.leg_link || null,
-}));
+const archive = rows.map(r => {
+  const countries = [...new Set([r.leg_country_a, r.leg_country_b, r.leg_country_c, r.leg_country]
+    .filter(country => country && country !== 'NA'))];
+
+  return {
+    id:             r.entry_id,
+    title:          r.title,
+    creator:        r.author,
+    description:    r.summary,
+    type:           r.primary_category,   // textual / visual / audio / performative
+    subtype:        r.type,               // film / documentary / fiction / prose / etc.
+    year:           r.year ? parseInt(r.year) : null,
+    status_context: countries.map(country => categoryByCountry[country]).find(Boolean) || null,
+    countries,
+    thumbnail:      null,
+    url:            r.url,
+    leg_text:       r.leg_text,
+    leg_link:       r.leg_link || null,
+  };
+});
 
 fs.writeFileSync(OUT_PATH, JSON.stringify(archive, null, 2));
 console.log(`wrote ${archive.length} entries to ${OUT_PATH}`);
