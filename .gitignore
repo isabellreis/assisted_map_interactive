@@ -3,8 +3,10 @@ _data/*.xlsx
 _data/research/
 # Kirby backend export — local source content
 backend-extract/
+_backend-extract/
 # Notes - Claude handovers, instructions, backend extract 
 _notes/
+notes/
 # Brand fonts — proprietary, not for version control
 _assets/fonts/
 ### Java ###
