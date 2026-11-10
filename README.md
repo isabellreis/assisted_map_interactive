@@ -61,28 +61,39 @@ In Archive mode, clicking filters the archive grid to that country's entries.
 ## File structure
 
 ```
-├── index.html              # App shell
-├── style.css               # All styling (fonts, layout, card design)
-├── app.js                  # All application logic (Leaflet + D3)
-├── _assets/
-│   └── fonts/              # Brand fonts (not in version control — see below)
+.
+├── index.html                  # App shell
+├── style.css                   # Styling, layout, and card design
+├── app.js                      # Application logic (Leaflet + D3)
+├── README.md                   # Project guide and data-pipeline instructions
+├── .github/
+│   └── workflows/
+│       └── deploy.yml          # Deployment workflow
 ├── _scripts/
-│   ├── preprocessing_long.R    # Google Sheet → GeoJSON
-│   ├── kirby_to_archive.js     # Kirby backend → archive.json
-│   └── csv_to_archive.js       # CSV → archive.json (fallback)
-├── _data/                  # Generated files — not in version control
-│   ├── world_joined.geojson
-│   ├── world_countries.geojson
-│   └── archive.json
-├── _notes/                 # Developer and handoff notes
-│   ├── dev-notes.md            # Kirby CMS embedding notes
+│   ├── preprocessing_long.R    # Google Sheet → legislation GeoJSON
+│   ├── csv_to_archive.js       # Shared cleaned CSVs → _data/archive.json
+│   └── kirby_to_archive.js     # Local Kirby export → data/archive.json
+├── _data/                      # Map data consumed by app.js
+│   ├── world_joined.geojson    # Legislation/proposals map geography
+│   ├── world_countries.geojson # Country-level archive-map geography
+│   └── archive.json            # Archive entries and legal-context records
+├── notes/                      # Developer and handoff documentation
 │   ├── assisted-lab-map-spec.md
-│   └── claude-code-handoff.md
-└── backend-extract/        # Kirby content export — not in version control
-    └── content/            # Entry .txt files and cover images
+│   ├── claude-code-handoff.md
+│   ├── claude-code-handoff-continued.md
+│   └── dev-notes.md
+├── backend-extract/            # Local Kirby export; ignored by Git
+│   ├── assets/                 # Exported assets
+│   └── content/                # Entry text files and cover images
+├── _assets/fonts/               # Optional local brand fonts; ignored by Git
+└── data/                        # Alternate Kirby parser output, if generated
 ```
 
-**Fonts:** `_assets/fonts/` is gitignored. Copy the five `.woff2` files from the Kirby backend (`assets/`) into this folder before running locally.
+The shared scraper data lives outside this project, in the workspace-level
+`../_data/` folder. The CSV importer reads `clean_archive.csv` and
+`legal_contexts.csv` there and writes `_data/archive.json` for the app. The
+generated map data under this project's `_data/` is checked in; the Kirby
+backend export and local brand fonts are ignored by Git.
 
 ---
 
@@ -135,20 +146,25 @@ Requires `googlesheets4` auth — run `Rscript -e 'googlesheets4::gs4_auth()'` o
 
 **Source:** `backend-extract/content/` (Kirby flat-file export, not in version control)  
 **Script:** `_scripts/kirby_to_archive.js`  
-**Output:** `_data/archive.json`
+**Output:** `data/archive.json` (alternate output; the app loads `_data/archive.json`)
 
 To regenerate after content changes (run from project root):
 ```bash
 node _scripts/kirby_to_archive.js
 ```
 
-Current distribution: 131 entries across 34 countries. Highest counts: Canada (27), Switzerland (20), France and Netherlands (11 each).
+### Archive — CSV import
 
-### Archive — CSV fallback
+Run the scraper and cleaner from the workspace root to create
+`../_data/clean_archive.csv` and `../_data/legal_contexts.csv`, then build the
+app's archive JSON. Each entry's `legal_contexts` list retains every ordered
+country, text, and link record; the `countries` list deduplicates countries
+within that entry for map counts.
 
-To build the archive JSON from the CSV produced by `assisted_scrape` (at `../_data/all_entries.csv`):
 ```bash
-node _scripts/csv_to_archive.js
+Rscript assisted_scrape/_main.r
+Rscript assisted_scrape/clean.r
+node assisted_map_interactive/_scripts/csv_to_archive.js
 ```
 
 </details>

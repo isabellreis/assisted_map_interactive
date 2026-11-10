@@ -1,11 +1,12 @@
-// Converts the shared scraped archive CSV -> _data/archive.json
+// Converts the shared cleaned archive CSV -> _data/archive.json
 // Run: node _scripts/csv_to_archive.js  (from project root)
 
 'use strict';
 const fs = require('fs');
 const path = require('path');
 
-const CSV_PATH  = path.join(__dirname, '../../_data/all_entries.csv');
+const CSV_PATH  = path.join(__dirname, '../../_data/clean_archive.csv');
+const CONTEXT_PATH = path.join(__dirname, '../../_data/legal_contexts.csv');
 const GEO_PATH  = path.join(__dirname, '../_data/world_joined.geojson');
 const OUT_PATH  = path.join(__dirname, '../_data/archive.json');
 
@@ -39,9 +40,24 @@ geo.features.forEach(f => {
 });
 
 const rows = parseCSV(fs.readFileSync(CSV_PATH, 'utf8'));
+const contextRows = parseCSV(fs.readFileSync(CONTEXT_PATH, 'utf8'));
+const contextsByEntry = new Map();
+contextRows.forEach(row => {
+  const context = {
+    order: row.context_order ? parseInt(row.context_order, 10) : null,
+    country: row.leg_country || null,
+    text: row.leg_text || null,
+    link: row.leg_link || null,
+  };
+  if (!contextsByEntry.has(row.entry_id)) contextsByEntry.set(row.entry_id, []);
+  contextsByEntry.get(row.entry_id).push(context);
+});
 
 const archive = rows.map(r => {
-  const countries = [...new Set([r.leg_country_a, r.leg_country_b, r.leg_country_c, r.leg_country]
+  const legalContexts = (contextsByEntry.get(r.entry_id) || [])
+    .sort((a, b) => a.order - b.order);
+  const countries = [...new Set(legalContexts
+    .map(context => context.country)
     .filter(country => country && country !== 'NA'))];
 
   return {
@@ -54,6 +70,7 @@ const archive = rows.map(r => {
     year:           r.year ? parseInt(r.year) : null,
     status_context: countries.map(country => categoryByCountry[country]).find(Boolean) || null,
     countries,
+    legal_contexts: legalContexts,
     thumbnail:      null,
     url:            r.url,
     leg_text:       r.leg_text,
